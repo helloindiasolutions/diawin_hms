@@ -50,10 +50,12 @@ jobs:
             **/gulpfile.mjs
             **/.env.local
             **/.env.prod
+            **/vendor/**
             **/assets/libs/**
             **/assets/icon-fonts/**
             **/assets/scss/**
             **/pages/**
+
 
 
 
