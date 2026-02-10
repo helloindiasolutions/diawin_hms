@@ -44,7 +44,7 @@ jobs:
           server: ftp.mindmagik.in
           username: u602093072.sakthicodedev
           password: 'Sakthiinfin@123'
-          server-dir: /home/public_html/diawinhms/
+          server-dir: /
           exclude: |
             **/.git*
             **/.git*/**
