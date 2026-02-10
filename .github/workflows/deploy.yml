@@ -21,17 +21,6 @@ jobs:
       - name: Install Composer dependencies
         run: composer install --no-dev --optimize-autoloader
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Install NPM dependencies
-        run: npm install
-
-      - name: Build assets with Gulp
-        run: npx gulp build
-
       - name: Prepare .env for production
         run: |
           if [ -f .env.prod ]; then
