@@ -50,11 +50,7 @@ jobs:
             **/gulpfile.mjs
             **/.env.local
             **/.env.prod
-            **/assets/libs/**/src/**
-            **/assets/libs/**/node_modules/**
-            **/assets/libs/**/third_party/**
-            **/assets/libs/**/screenshots/**
-            **/assets/libs/**/grunt/**
-            **/assets/libs/**/react/**
-            **/assets/libs/**/docs/**
+            **/assets/libs/**
+
+
 
