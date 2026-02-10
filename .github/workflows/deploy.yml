@@ -51,6 +51,10 @@ jobs:
             **/.env.local
             **/.env.prod
             **/assets/libs/**
+            **/assets/icon-fonts/**
+            **/assets/scss/**
+            **/pages/**
+
 
 
 
