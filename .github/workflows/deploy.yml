@@ -1,4 +1,4 @@
-name: Deploy to FTP
+name: Deploy via SSH
 
 on:
   push:
@@ -27,36 +27,13 @@ jobs:
             cp .env.prod .env
           fi
 
-      - name: Sync files to FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      - name: Deploy via SSH (rsync)
+        uses: easingthemes/ssh-deploy@v5.1.0
         with:
-          server: ftp.mindmagik.in
-          username: u602093072.sakthicodedev
-          password: 'Sakthiinfin@123'
-          server-dir: /
-          exclude: |
-            **/.git*
-            **/.git*/**
-            **/node_modules/**
-            **/tests/**
-            **/docs/**
-            **/README.md
-            **/LICENSE
-            **/CHANGELOG.md
-            **/package.json
-            **/package-lock.json
-            **/composer.json
-            **/composer.lock
-            **/gulpfile.mjs
-            **/.env.local
-            **/.env.prod
-            **/vendor/**
-            **/assets/libs/**
-            **/assets/icon-fonts/**
-            **/assets/scss/**
-            **/pages/**
-
-
-
-
-
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          ARGS: "-rlgoDzvc -i --delete"
+          REMOTE_HOST: 89.117.169.28
+          REMOTE_USER: u602093072
+          REMOTE_PORT: 65002
+          TARGET: /home/u602093072/domains/mindmagik.in/public_html/diawinhms
+          EXCLUDE: "/.git/, /.github/, /node_modules/, /tests/, .env.local, .env.prod, /assets/libs/**/src/, /assets/libs/**/test/, /assets/libs/**/docs/"
