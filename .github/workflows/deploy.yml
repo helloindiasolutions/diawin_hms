@@ -39,10 +39,22 @@ jobs:
             **/.git*/**
             **/node_modules/**
             **/tests/**
-            **/gulpfile.mjs
+            **/docs/**
+            **/README.md
+            **/LICENSE
+            **/CHANGELOG.md
             **/package.json
             **/package-lock.json
             **/composer.json
             **/composer.lock
+            **/gulpfile.mjs
             **/.env.local
             **/.env.prod
+            **/assets/libs/**/src/**
+            **/assets/libs/**/node_modules/**
+            **/assets/libs/**/third_party/**
+            **/assets/libs/**/screenshots/**
+            **/assets/libs/**/grunt/**
+            **/assets/libs/**/react/**
+            **/assets/libs/**/docs/**
+
