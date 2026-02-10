@@ -1,0 +1,142 @@
+[2026-02-07 00:41:53] [INFO] Patient created {"patient_id":"13","mrn":"MRN26000013","user_id":1}
+[2026-02-07 00:41:55] [INFO] Patient created {"patient_id":"14","mrn":"MRN26000014","user_id":1}
+[2026-02-07 00:42:03] [INFO] Patient created {"patient_id":"15","mrn":"MRN26000015","user_id":1}
+[2026-02-07 00:42:03] [INFO] Patient created {"patient_id":"16","mrn":"MRN26000016","user_id":1}
+[2026-02-07 00:42:03] [INFO] Patient created {"patient_id":"17","mrn":"MRN26000017","user_id":1}
+[2026-02-07 00:49:57] [INFO] Patient created {"patient_id":"18","mrn":"MRN26000018","user_id":1}
+[2026-02-07 11:57:05] [ERROR] Database connection (local) failed {"error":"SQLSTATE[HY000] [2002] Connection refused"}
+[2026-02-07 11:57:05] [ERROR] Uncaught Exception {"message":"SQLSTATE[HY000] [2002] Connection refused","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":80}
+[2026-02-07 11:57:59] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-02-07 12:06:37] [ERROR] Uncaught Exception {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u.name' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":102}
+[2026-02-07 12:08:40] [ERROR] Uncaught Exception {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'b.branch_name' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":102}
+[2026-02-07 12:37:36] [ERROR] API Error {"message":"Call to undefined method App\\Api\\Controllers\\DashboardController::getInventoryStats()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/DashboardController.php","line":121}
+[2026-02-07 12:46:00] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.visit_date' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":102}
+[2026-02-07 12:46:00] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.visit_date' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":102}
+[2026-02-07 12:46:09] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.visit_date' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":102}
+[2026-02-07 12:46:09] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.visit_date' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":102}
+[2026-02-07 12:46:28] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.visit_date' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":102}
+[2026-02-07 12:46:28] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.visit_date' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":102}
+[2026-02-07 12:46:40] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.visit_date' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":102}
+[2026-02-07 12:46:40] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.visit_date' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":102}
+[2026-02-07 12:48:11] [ERROR] API Error {"message":"SQLSTATE[42S02]: Base table or view not found: 1109 Unknown table 'p' in field list","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":102}
+[2026-02-07 12:48:11] [ERROR] API Error {"message":"SQLSTATE[42S02]: Base table or view not found: 1109 Unknown table 'pr' in field list","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":102}
+[2026-02-07 13:05:18] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-07 13:05:18] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 13:05:19] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-07 14:03:12] [ERROR] Failed to create admission {"error":"SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `melina_hms`.`ip_admissions`.`visit_id` at row 1"}
+[2026-02-07 14:11:58] [INFO] IP Admission created {"admission_id":"2","admission_number":"IP202602070747"}
+[2026-02-07 14:14:08] [INFO] IP Admission created {"admission_id":"3","admission_number":"IP202602070849"}
+[2026-02-07 14:39:26] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-07 14:39:26] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 14:39:27] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-07 14:39:29] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-07 14:39:29] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 14:39:30] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-07 14:41:09] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-07 14:41:09] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 14:41:11] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-07 14:41:20] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-07 14:41:20] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 14:41:21] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-07 14:41:25] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-07 14:41:25] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 14:41:26] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-07 14:45:05] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-07 14:45:05] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 14:45:06] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-07 14:48:55] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-07 14:48:55] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 14:48:55] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-07 14:49:14] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-07 14:49:14] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 14:49:15] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-07 15:49:33] [INFO] Purchase Order created {"po_id":"12","items_count":1,"total_amount":922.6399999999999863575794734060764312744140625}
+[2026-02-07 15:53:05] [INFO] Purchase Order created {"po_id":"13","items_count":1,"total_amount":922.6399999999999863575794734060764312744140625}
+[2026-02-07 15:57:10] [ERROR] Failed to create PO {"error":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'invoice_no' in 'field list'","input":{"supplier_id":"1","invoice_no":"PO-20260207-580","total_amount":922.6399999999999863575794734060764312744140625,"items":[{"product_id":"6","qty":5,"cost":156.3799999999999954525264911353588104248046875}],"status":"sent"}}
+[2026-02-07 16:02:04] [ERROR] Failed to create PO {"error":"SQLSTATE[01000]: Warning: 1265 Data truncated for column 'status' at row 1","input":{"supplier_id":"1","invoice_no":"PO-20260207-580","total_amount":922.6399999999999863575794734060764312744140625,"items":[{"product_id":"6","qty":5,"cost":156.3799999999999954525264911353588104248046875}],"status":"sent"}}
+[2026-02-07 16:03:19] [INFO] Purchase Order created {"po_id":"14","items_count":1,"total_amount":922.6399999999999863575794734060764312744140625}
+[2026-02-07 16:03:30] [INFO] Purchase Order created {"po_id":"15","items_count":1,"total_amount":922.6399999999999863575794734060764312744140625}
+[2026-02-07 16:05:05] [INFO] Purchase Order created {"po_id":"16","items_count":1,"total_amount":922.6399999999999863575794734060764312744140625}
+[2026-02-07 16:09:13] [INFO] Fetched PO items {"po_id":16,"items_count":1,"first_item":{"po_item_id":16,"product_id":6,"product_name":"kankasa tablet","sku":"FG-006","qty_ordered":5,"unit_price":"156.38","amount":"781.90","mrp":"781.90"}}
+[2026-02-07 16:25:41] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-02-07 16:49:02] [INFO] Expired OTPs cleaned up {"count":1}
+[2026-02-07 16:49:04] [INFO] WhatsApp OTP sent {"recipient":"9952048535"}
+[2026-02-07 16:49:04] [INFO] OTP generated {"otp_id":"7","mobile_number":"9952048535","purpose":"login","expires_at":"2026-02-07 16:54:02"}
+[2026-02-07 16:49:21] [INFO] OTP verified successfully {"otp_id":7,"mobile_number":"9952048535","purpose":"login"}
+[2026-02-07 16:49:21] [INFO] User logged in via OTP {"user_id":5}
+[2026-02-07 16:49:21] [INFO] User logged in via OTP Bridge {"user_id":5}
+[2026-02-07 16:58:13] [WARNING] Failed login attempt {"username":"admin9952048535"}
+[2026-02-07 17:00:44] [INFO] Expired OTPs cleaned up {"count":1}
+[2026-02-07 17:00:46] [INFO] WhatsApp OTP sent {"recipient":"9952048535"}
+[2026-02-07 17:00:46] [INFO] OTP generated {"otp_id":"8","mobile_number":"9952048535","purpose":"login","expires_at":"2026-02-07 17:05:44"}
+[2026-02-07 17:01:39] [INFO] OTP verified successfully {"otp_id":8,"mobile_number":"9952048535","purpose":"login"}
+[2026-02-07 17:01:39] [INFO] User logged in via OTP {"user_id":5}
+[2026-02-07 17:01:39] [INFO] User logged in via OTP Bridge {"user_id":5}
+[2026-02-07 17:23:54] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-02-07 17:23:54] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 17:23:58] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 17:27:14] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 17:28:25] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 17:28:26] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 17:28:32] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 17:28:33] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 17:28:35] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 17:28:37] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 17:28:38] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 17:28:39] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 17:28:41] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 17:47:48] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 18:07:52] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 18:08:34] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 18:09:24] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 18:20:38] [ERROR] Uncaught Exception {"message":"syntax error, unexpected end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/header.php","line":585}
+[2026-02-07 18:20:39] [ERROR] Uncaught Exception {"message":"syntax error, unexpected end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/header.php","line":585}
+[2026-02-07 18:20:40] [ERROR] Uncaught Exception {"message":"syntax error, unexpected end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/header.php","line":585}
+[2026-02-07 18:20:49] [ERROR] Uncaught Exception {"message":"syntax error, unexpected end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/header.php","line":585}
+[2026-02-07 18:20:50] [ERROR] Uncaught Exception {"message":"syntax error, unexpected end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/header.php","line":585}
+[2026-02-07 18:21:19] [ERROR] Uncaught Exception {"message":"syntax error, unexpected end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/header.php","line":585}
+[2026-02-07 18:21:20] [ERROR] Uncaught Exception {"message":"syntax error, unexpected end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/header.php","line":585}
+[2026-02-07 18:21:25] [ERROR] Uncaught Exception {"message":"syntax error, unexpected end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/header.php","line":585}
+[2026-02-07 18:29:08] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 18:29:15] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 18:29:23] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 18:29:25] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 18:29:42] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 18:30:10] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 18:30:14] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 18:30:27] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 18:30:30] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 18:30:34] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 18:30:37] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 18:30:38] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 18:31:56] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 18:33:55] [ERROR] API Error {"message":"App\\Api\\Controllers\\VisitController::getVitals(): Argument #1 ($visitId) must be of type int, string given","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":136}
+[2026-02-07 19:02:20] [ERROR] API Error {"message":"App\\Api\\Controllers\\VisitController::getVitals(): Argument #1 ($visitId) must be of type int, string given","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":136}
+[2026-02-07 19:03:51] [ERROR] API Error {"message":"App\\Api\\Controllers\\VisitController::getVitals(): Argument #1 ($visitId) must be of type int, string given","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":136}
+[2026-02-07 19:04:45] [ERROR] API Error {"message":"App\\Api\\Controllers\\VisitController::getVitals(): Argument #1 ($visitId) must be of type int, string given","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":136}
+[2026-02-07 19:04:45] [ERROR] API Error {"message":"App\\Api\\Controllers\\VisitController::getVitals(): Argument #1 ($visitId) must be of type int, string given","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":136}
+[2026-02-07 19:04:56] [ERROR] API Error {"message":"App\\Api\\Controllers\\VisitController::getVitals(): Argument #1 ($visitId) must be of type int, string given","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":136}
+[2026-02-07 19:06:48] [ERROR] API Error {"message":"App\\Api\\Controllers\\VisitController::getVitals(): Argument #1 ($visitId) must be of type int, string given","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":136}
+[2026-02-07 19:10:05] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-07 19:39:22] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 19:39:25] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 19:39:26] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 19:39:27] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 19:39:28] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 19:39:28] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 19:39:29] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 19:39:30] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 19:43:19] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 19:43:20] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 19:43:21] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 19:45:31] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 19:47:24] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 20:00:12] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 20:05:14] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 20:09:09] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 20:09:10] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 20:09:16] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 20:09:17] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 20:09:19] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 20:09:23] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-07 20:12:53] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}

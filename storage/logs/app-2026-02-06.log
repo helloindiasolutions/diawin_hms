@@ -1,0 +1,40 @@
+[2026-02-06 00:01:51] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-02-06 00:07:02] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-02-06 00:18:58] [ERROR] Database connection (local) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)"}
+[2026-02-06 00:18:58] [ERROR] API Error {"message":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":80}
+[2026-02-06 00:18:58] [ERROR] Database connection (local) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)"}
+[2026-02-06 00:18:58] [ERROR] API Error {"message":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":80}
+[2026-02-06 00:19:04] [ERROR] Database connection (local) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)"}
+[2026-02-06 00:19:04] [ERROR] API Error {"message":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":80}
+[2026-02-06 00:19:34] [ERROR] Database connection (local) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)"}
+[2026-02-06 00:19:34] [ERROR] API Error {"message":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":80}
+[2026-02-06 00:19:58] [ERROR] Database connection (local) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)"}
+[2026-02-06 00:19:58] [ERROR] API Error {"message":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":80}
+[2026-02-06 00:19:58] [ERROR] Database connection (local) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)"}
+[2026-02-06 00:19:58] [ERROR] API Error {"message":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":80}
+[2026-02-06 00:20:04] [ERROR] Database connection (local) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)"}
+[2026-02-06 00:20:04] [ERROR] API Error {"message":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":80}
+[2026-02-06 00:20:19] [ERROR] Database connection (local) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)"}
+[2026-02-06 00:20:19] [ERROR] Uncaught Exception {"message":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":80}
+[2026-02-06 00:20:20] [ERROR] Database connection (local) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)"}
+[2026-02-06 00:20:20] [ERROR] API Error {"message":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":80}
+[2026-02-06 00:20:20] [ERROR] Database connection (local) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)"}
+[2026-02-06 00:20:20] [ERROR] Uncaught Exception {"message":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":80}
+[2026-02-06 00:20:21] [ERROR] Database connection (local) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)"}
+[2026-02-06 00:20:21] [ERROR] API Error {"message":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":80}
+[2026-02-06 00:20:21] [ERROR] Database connection (local) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)"}
+[2026-02-06 00:20:21] [ERROR] Uncaught Exception {"message":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":80}
+[2026-02-06 00:20:22] [ERROR] Database connection (local) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)"}
+[2026-02-06 00:20:22] [ERROR] API Error {"message":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_diawinhms'@'localhost' (using password: YES)","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":80}
+[2026-02-06 00:28:22] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-02-06 00:38:24] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-02-06 00:54:29] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-02-06 01:26:42] [ERROR] API Error {"message":"App\\Api\\Controllers\\PatientController::fullDetails(): Argument #1 ($id) must be of type int, string given","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":932}
+[2026-02-06 01:26:42] [ERROR] API Error {"message":"App\\Api\\Controllers\\PatientController::fullDetails(): Argument #1 ($id) must be of type int, string given","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":932}
+[2026-02-06 01:27:06] [ERROR] API Error {"message":"App\\Api\\Controllers\\PatientController::fullDetails(): Argument #1 ($id) must be of type int, string given","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":932}
+[2026-02-06 01:27:06] [ERROR] API Error {"message":"App\\Api\\Controllers\\PatientController::fullDetails(): Argument #1 ($id) must be of type int, string given","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":932}
+[2026-02-06 01:30:15] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-02-06 01:31:54] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-02-06 23:47:49] [ERROR] Database connection (local) failed {"error":"SQLSTATE[HY000] [2002] Connection refused"}
+[2026-02-06 23:47:49] [ERROR] Uncaught Exception {"message":"SQLSTATE[HY000] [2002] Connection refused","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":80}
+[2026-02-06 23:48:47] [INFO] User logged in {"user_id":1,"username":"admin"}

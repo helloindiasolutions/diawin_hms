@@ -1,0 +1,129 @@
+
+[2026-02-02 19:45:09] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 19:45:09] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":14,"password_last_3":"3!@"}
+[2026-02-02 19:45:10] [ERROR] Database connection (remote) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'2405:201:e047:4823:4174:cd22:70:cbc8' (using password: YES)"}
+[2026-02-02 19:45:10] [ERROR] Failed to connect to Melina remote database {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'2405:201:e047:4823:4174:cd22:70:cbc8' (using password: YES)","code":1045}
+[2026-02-02 19:45:15] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 19:45:15] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":14,"password_last_3":"3!@"}
+[2026-02-02 19:45:15] [ERROR] Database connection (remote) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'2405:201:e047:4823:4174:cd22:70:cbc8' (using password: YES)"}
+[2026-02-02 19:45:15] [ERROR] Failed to connect to Melina remote database {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'2405:201:e047:4823:4174:cd22:70:cbc8' (using password: YES)","code":1045}
+[2026-02-02 19:45:30] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 19:45:30] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":14,"password_last_3":"3!@"}
+[2026-02-02 19:45:30] [ERROR] Database connection (remote) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'2405:201:e047:4823:4174:cd22:70:cbc8' (using password: YES)"}
+[2026-02-02 19:45:30] [ERROR] Failed to connect to Melina remote database {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'2405:201:e047:4823:4174:cd22:70:cbc8' (using password: YES)","code":1045}
+[2026-02-02 19:45:48] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 19:45:48] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":14,"password_last_3":"3!@"}
+[2026-02-02 19:45:49] [ERROR] Database connection (remote) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'2405:201:e047:4823:4174:cd22:70:cbc8' (using password: YES)"}
+[2026-02-02 19:45:49] [ERROR] Failed to connect to Melina remote database {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'2405:201:e047:4823:4174:cd22:70:cbc8' (using password: YES)","code":1045}
+[2026-02-02 19:49:33] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 19:49:33] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 19:49:34] [ERROR] Failed to connect to Melina remote database {"error":"SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'status' in WHERE is ambiguous","code":"23000"}
+[2026-02-02 19:54:19] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 19:54:19] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 19:54:19] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 19:57:23] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 19:57:23] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 19:57:25] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 19:59:27] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 19:59:27] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 19:59:29] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 20:00:47] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 20:00:47] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 20:00:48] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 20:02:43] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 20:02:43] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 20:02:44] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 20:04:06] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 20:04:06] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 20:04:07] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 20:43:54] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 20:43:54] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 20:43:56] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 20:47:18] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 20:47:18] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 20:47:19] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 20:47:34] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 20:47:34] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 20:47:35] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 20:49:42] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 20:49:42] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 20:49:44] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 20:52:48] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 20:52:48] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 20:52:49] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 20:54:18] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 20:54:18] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 20:54:19] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 20:54:32] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 20:54:32] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 20:54:32] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 20:55:40] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 20:55:40] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 20:55:41] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 20:59:38] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 20:59:38] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 20:59:39] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 21:01:41] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 21:01:41] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:01:42] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 21:02:13] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 21:02:13] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:02:14] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 21:02:20] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 21:02:20] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:02:21] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 21:29:13] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 21:29:13] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:29:14] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 21:39:54] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 21:39:54] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:39:55] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 21:41:40] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:41:52] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:42:01] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:43:29] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 21:43:29] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:43:30] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 21:47:14] [INFO] Quotation created successfully {"quotation_id":"13061","quotation_no":"QT-20260202-519","supplier_id":78,"items_count":1,"created_by":1}
+[2026-02-02 21:47:47] [INFO] Melina Products - Environment Check {"REMOTE_DB_HOST":"srv971.hstgr.io","REMOTE_DB_DATABASE":"u602093072_melina","REMOTE_DB_USERNAME":"u602093072_melina","REMOTE_DB_PASSWORD":"***SET***"}
+[2026-02-02 21:47:47] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:47:48] [INFO] Melina products fetched successfully {"count":18,"search":""}
+[2026-02-02 21:51:36] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:51:39] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:51:41] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:51:42] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:51:43] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:51:44] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:51:45] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:51:46] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:51:48] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:51:49] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:51:50] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:51:51] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:51:52] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:51:54] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:51:55] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:51:56] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:51:57] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:51:59] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:52:00] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:52:01] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:52:02] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:52:04] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:52:05] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:52:06] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:52:08] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:52:09] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:52:10] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:52:11] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:52:12] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 21:52:13] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-02 23:30:17] [ERROR] API Error {"message":"syntax error, unexpected token \">\", expecting \"function\" or \"const\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":1897}
+[2026-02-02 23:30:18] [ERROR] API Error {"message":"syntax error, unexpected token \">\", expecting \"function\" or \"const\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":1897}
+[2026-02-02 23:37:05] [ERROR] API Error {"message":"syntax error, unexpected token \">\", expecting \"function\" or \"const\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":1897}
+[2026-02-02 23:37:11] [ERROR] API Error {"message":"syntax error, unexpected token \">\", expecting \"function\" or \"const\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":1897}
+[2026-02-02 23:37:16] [ERROR] API Error {"message":"syntax error, unexpected token \">\", expecting \"function\" or \"const\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":1897}
+[2026-02-02 23:44:48] [ERROR] API Error {"message":"Unknown named parameter $id","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Router.php","line":170}
+[2026-02-02 23:47:32] [ERROR] PHP Error {"message":"Undefined array key \"item_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":326}
+[2026-02-02 23:47:32] [ERROR] PHP Error {"message":"Undefined array key \"qty\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":328}
+[2026-02-02 23:54:51] [INFO] GRN created successfully {"grn_id":"2","grn_no":"GRN-20260202-138","po_id":2,"items_count":1,"created_by":1}

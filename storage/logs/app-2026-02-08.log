@@ -1,0 +1,650 @@
+[2026-02-08 10:55:01] [WARNING] Failed login attempt {"username":"sa@stccommex.com"}
+[2026-02-08 10:55:03] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-02-08 10:55:03] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 10:55:11] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 10:56:01] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 10:56:02] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 10:56:11] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 10:56:12] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 10:56:13] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 10:56:17] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 10:56:48] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 10:56:49] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 10:56:50] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 10:57:48] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 10:57:49] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 10:57:49] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 10:58:10] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 10:58:11] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 10:58:11] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 10:58:11] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 10:58:20] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 10:58:53] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:00:17] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:00:19] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:00:28] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:00:32] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:00:47] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:00:48] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:00:48] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:00:59] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:01:05] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:01:06] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:01:38] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:08:04] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-02-08 11:08:04] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:25:43] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:26:35] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:26:51] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:27:10] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:27:34] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:27:41] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:29:27] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:30:37] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:30:40] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:30:59] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:31:06] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:32:29] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:32:30] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:32:43] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:33:41] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:34:02] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:35:24] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:56:51] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:57:27] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:58:06] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:58:23] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:58:35] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:59:09] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 11:59:45] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:00:53] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:01:28] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:01:39] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:02:58] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:03:12] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:03:35] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:03:41] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:03:43] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:03:51] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:03:53] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:04:22] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:05:15] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:06:34] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:07:02] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:09:24] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:09:32] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:09:33] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:09:37] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:09:38] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:09:39] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:09:44] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:11:04] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:11:15] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:11:37] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:11:38] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:11:39] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:11:40] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:11:45] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:11:47] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:12:08] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:12:10] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:12:13] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:12:30] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:12:40] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:12:44] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:13:51] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:14:17] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:14:55] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:16:21] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:16:25] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:16:38] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:17:24] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:17:39] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:17:58] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:18:16] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:18:38] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 12:42:45] [INFO] Patient created {"patient_id":"19","mrn":"MRN26000019","user_id":1}
+[2026-02-08 13:23:29] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 13:23:36] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 13:24:24] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 13:34:59] [ERROR] PHP Error {"message":"Undefined array key \"net_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":225}
+[2026-02-08 13:34:59] [ERROR] PHP Error {"message":"Undefined array key \"received\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":229}
+[2026-02-08 13:34:59] [ERROR] PHP Error {"message":"Undefined array key \"net_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":229}
+[2026-02-08 13:34:59] [ERROR] PHP Error {"message":"Undefined array key \"description\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":240}
+[2026-02-08 13:34:59] [ERROR] PHP Error {"message":"Undefined array key \"unit_price\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":242}
+[2026-02-08 13:39:56] [ERROR] PHP Error {"message":"Undefined array key \"net_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":225}
+[2026-02-08 13:39:56] [ERROR] PHP Error {"message":"Undefined array key \"received\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":229}
+[2026-02-08 13:39:56] [ERROR] PHP Error {"message":"Undefined array key \"net_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":229}
+[2026-02-08 13:39:56] [ERROR] PHP Error {"message":"Undefined array key \"description\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":240}
+[2026-02-08 13:39:56] [ERROR] PHP Error {"message":"Undefined array key \"unit_price\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":242}
+[2026-02-08 13:39:56] [ERROR] PHP Error {"message":"number_format(): Passing null to parameter #1 ($num) of type float is deprecated","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/billing/print.php","line":362}
+[2026-02-08 13:41:17] [ERROR] PHP Error {"message":"Undefined array key \"net_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":225}
+[2026-02-08 13:41:17] [ERROR] PHP Error {"message":"Undefined array key \"received\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":229}
+[2026-02-08 13:41:17] [ERROR] PHP Error {"message":"Undefined array key \"net_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":229}
+[2026-02-08 13:41:17] [ERROR] PHP Error {"message":"Undefined array key \"description\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":240}
+[2026-02-08 13:41:17] [ERROR] PHP Error {"message":"Undefined array key \"unit_price\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":242}
+[2026-02-08 13:45:25] [ERROR] PHP Error {"message":"Undefined array key \"net_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":267}
+[2026-02-08 13:45:25] [ERROR] PHP Error {"message":"Undefined array key \"received\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":271}
+[2026-02-08 13:45:25] [ERROR] PHP Error {"message":"Undefined array key \"net_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":271}
+[2026-02-08 13:45:25] [ERROR] PHP Error {"message":"Undefined array key \"description\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":282}
+[2026-02-08 13:45:25] [ERROR] PHP Error {"message":"Undefined array key \"unit_price\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":284}
+[2026-02-08 13:45:25] [ERROR] PHP Error {"message":"number_format(): Passing null to parameter #1 ($num) of type float is deprecated","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/billing/print.php","line":362}
+[2026-02-08 13:50:21] [ERROR] PHP Error {"message":"Undefined array key \"net_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":282}
+[2026-02-08 13:50:21] [ERROR] PHP Error {"message":"Undefined array key \"received\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":286}
+[2026-02-08 13:50:21] [ERROR] PHP Error {"message":"Undefined array key \"net_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":286}
+[2026-02-08 13:50:21] [ERROR] PHP Error {"message":"Undefined array key \"description\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":297}
+[2026-02-08 13:50:21] [ERROR] PHP Error {"message":"Undefined array key \"unit_price\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":299}
+[2026-02-08 13:50:21] [ERROR] PHP Error {"message":"number_format(): Passing null to parameter #1 ($num) of type float is deprecated","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/billing/print.php","line":362}
+[2026-02-08 13:50:40] [ERROR] PHP Error {"message":"Undefined array key \"net_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":282}
+[2026-02-08 13:50:40] [ERROR] PHP Error {"message":"Undefined array key \"received\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":286}
+[2026-02-08 13:50:40] [ERROR] PHP Error {"message":"Undefined array key \"net_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":286}
+[2026-02-08 13:50:40] [ERROR] PHP Error {"message":"Undefined array key \"description\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":297}
+[2026-02-08 13:50:40] [ERROR] PHP Error {"message":"Undefined array key \"unit_price\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":299}
+[2026-02-08 13:51:11] [ERROR] PHP Error {"message":"Undefined array key \"net_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":282}
+[2026-02-08 13:51:11] [ERROR] PHP Error {"message":"Undefined array key \"received\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":286}
+[2026-02-08 13:51:11] [ERROR] PHP Error {"message":"Undefined array key \"net_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":286}
+[2026-02-08 13:51:11] [ERROR] PHP Error {"message":"Undefined array key \"description\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":297}
+[2026-02-08 13:51:11] [ERROR] PHP Error {"message":"Undefined array key \"unit_price\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":299}
+[2026-02-08 14:12:41] [ERROR] PHP Error {"message":"Undefined array key \"tax_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/billing/print.php","line":473}
+[2026-02-08 14:18:13] [ERROR] PHP Error {"message":"Undefined array key \"tax_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/billing/print.php","line":473}
+[2026-02-08 14:18:44] [ERROR] PHP Error {"message":"Undefined array key \"tax_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/billing/print.php","line":473}
+[2026-02-08 15:06:21] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document"}
+[2026-02-08 15:06:21] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 15:06:21] [INFO] WhatsApp API Response Body: {"status":500,"message":"Failed sending priority WhatsApp chat!","data":false}
+[2026-02-08 10:37:02] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"917200720072","type":"text"}
+[2026-02-08 10:37:02] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 10:37:02] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3584"}}
+[2026-02-08 10:38:59] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919585084029","type":"text"}
+[2026-02-08 10:38:59] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 10:38:59] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3585"}}
+[2026-02-08 10:39:41] [INFO] Local environment detected. Sending WhatsApp as text link instead of document attachment.
+[2026-02-08 10:39:43] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919585084029","type":"text"}
+[2026-02-08 10:39:43] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 10:39:43] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3586"}}
+[2026-02-08 15:11:00] [INFO] Local environment detected. Sending WhatsApp as text link instead of document attachment.
+[2026-02-08 15:11:02] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text"}
+[2026-02-08 15:11:02] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 15:11:02] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3587"}}
+[2026-02-08 15:16:40] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 15:16:52] [INFO] Expired OTPs cleaned up {"count":1}
+[2026-02-08 15:16:54] [INFO] WhatsApp OTP sent {"recipient":"9952048535"}
+[2026-02-08 15:16:54] [INFO] OTP generated {"otp_id":"9","mobile_number":"9952048535","purpose":"login","expires_at":"2026-02-08 15:21:52"}
+[2026-02-08 15:16:59] [INFO] OTP verified successfully {"otp_id":9,"mobile_number":"9952048535","purpose":"login"}
+[2026-02-08 15:16:59] [INFO] User logged in via OTP {"user_id":5}
+[2026-02-08 15:16:59] [INFO] User logged in via OTP Bridge {"user_id":5}
+[2026-02-08 15:17:16] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 15:17:53] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 15:18:09] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text"}
+[2026-02-08 15:18:09] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 15:18:09] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3589"}}
+[2026-02-08 15:18:48] [INFO] WhatsApp OTP sent {"recipient":"9952048535"}
+[2026-02-08 15:18:48] [INFO] OTP generated {"otp_id":"10","mobile_number":"9952048535","purpose":"login","expires_at":"2026-02-08 15:23:46"}
+[2026-02-08 15:19:02] [INFO] OTP verified successfully {"otp_id":10,"mobile_number":"9952048535","purpose":"login"}
+[2026-02-08 15:19:02] [INFO] User logged in via OTP {"user_id":5}
+[2026-02-08 15:19:02] [INFO] User logged in via OTP Bridge {"user_id":5}
+[2026-02-08 15:19:37] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 15:19:43] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 15:19:51] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 15:20:04] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 15:20:05] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 15:20:09] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 15:20:10] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 15:20:22] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 15:20:30] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document"}
+[2026-02-08 15:20:30] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 15:20:30] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3591"}}
+[2026-02-08 15:23:21] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 15:23:33] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text"}
+[2026-02-08 15:23:33] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 15:23:33] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3592"}}
+[2026-02-08 15:23:44] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 15:23:57] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 15:24:22] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 15:30:25] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 15:30:33] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 15:32:44] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 15:33:02] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 15:37:04] [ERROR] API Error {"message":"Class \"App\\Api\\Controllers\\WhatsAppService\" not found","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":434}
+[2026-02-08 15:39:32] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 15:40:33] [INFO] Expired OTPs cleaned up {"count":2}
+[2026-02-08 15:40:35] [INFO] WhatsApp OTP sent {"recipient":"9952048535"}
+[2026-02-08 15:40:35] [INFO] OTP generated {"otp_id":"11","mobile_number":"9952048535","purpose":"login","expires_at":"2026-02-08 15:45:33"}
+[2026-02-08 15:40:50] [INFO] OTP verified successfully {"otp_id":11,"mobile_number":"9952048535","purpose":"login"}
+[2026-02-08 15:40:50] [INFO] User logged in via OTP {"user_id":5}
+[2026-02-08 15:40:50] [INFO] User logged in via OTP Bridge {"user_id":5}
+[2026-02-08 15:46:15] [INFO] Expired OTPs cleaned up {"count":1}
+[2026-02-08 15:46:17] [INFO] WhatsApp OTP sent {"recipient":"9952048535"}
+[2026-02-08 15:46:17] [INFO] OTP generated {"otp_id":"12","mobile_number":"9952048535","purpose":"login","expires_at":"2026-02-08 15:51:15"}
+[2026-02-08 15:46:22] [INFO] OTP verified successfully {"otp_id":12,"mobile_number":"9952048535","purpose":"login"}
+[2026-02-08 15:46:22] [INFO] User logged in via OTP {"user_id":5}
+[2026-02-08 15:46:22] [INFO] User logged in via OTP Bridge {"user_id":5}
+[2026-02-08 15:46:51] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 15:46:54] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 15:46:56] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 15:47:10] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document"}
+[2026-02-08 15:47:10] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 15:47:10] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3595"}}
+[2026-02-08 15:51:47] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 15:51:59] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text"}
+[2026-02-08 15:51:59] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 15:51:59] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3596"}}
+[2026-02-08 15:52:14] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 15:52:51] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document"}
+[2026-02-08 15:52:51] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 15:52:51] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3597"}}
+[2026-02-08 15:58:52] [INFO] Expired OTPs cleaned up {"count":1}
+[2026-02-08 15:58:54] [INFO] WhatsApp OTP sent {"recipient":"9952048535"}
+[2026-02-08 15:58:54] [INFO] OTP generated {"otp_id":"13","mobile_number":"9952048535","purpose":"login","expires_at":"2026-02-08 16:03:52"}
+[2026-02-08 15:59:08] [INFO] OTP verified successfully {"otp_id":13,"mobile_number":"9952048535","purpose":"login"}
+[2026-02-08 15:59:08] [INFO] User logged in via OTP {"user_id":5}
+[2026-02-08 15:59:09] [INFO] User logged in via OTP Bridge {"user_id":5}
+[2026-02-08 15:59:14] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 15:59:29] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text"}
+[2026-02-08 15:59:29] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 15:59:29] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3599"}}
+[2026-02-08 15:59:31] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 16:00:23] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document"}
+[2026-02-08 16:00:23] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 16:00:23] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3600"}}
+[2026-02-08 16:04:26] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 16:06:12] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 16:06:23] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text"}
+[2026-02-08 16:06:23] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 16:06:23] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3601"}}
+[2026-02-08 16:06:26] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 16:06:40] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 16:06:53] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document"}
+[2026-02-08 16:06:53] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 16:06:53] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3602"}}
+[2026-02-08 16:07:15] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 16:29:07] [INFO] Local environment detected. Sending WhatsApp as text link instead of document attachment.
+[2026-02-08 16:29:08] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text"}
+[2026-02-08 16:29:08] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 16:29:08] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3603"}}
+[2026-02-08 16:32:06] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 16:33:17] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text"}
+[2026-02-08 16:33:17] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 16:33:17] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3604"}}
+[2026-02-08 16:33:29] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 16:33:51] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 16:34:02] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 16:34:10] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 16:34:12] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 16:35:31] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document"}
+[2026-02-08 16:35:31] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 16:35:31] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3605"}}
+[2026-02-08 16:37:11] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 16:37:30] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text"}
+[2026-02-08 16:37:30] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 16:37:30] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3606"}}
+[2026-02-08 16:37:43] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text"}
+[2026-02-08 16:37:43] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 16:37:43] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3607"}}
+[2026-02-08 16:38:03] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 16:38:05] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 16:38:05] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 16:38:13] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 16:38:13] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 16:38:18] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 16:38:24] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 16:38:43] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 16:38:45] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 16:39:09] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 16:39:11] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document"}
+[2026-02-08 16:39:11] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 16:39:11] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3608"}}
+[2026-02-08 16:41:00] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document"}
+[2026-02-08 16:41:00] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 16:41:00] [INFO] WhatsApp API Response Body: {"status":500,"message":"Failed sending priority WhatsApp chat!","data":false}
+[2026-02-08 16:41:30] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document"}
+[2026-02-08 16:41:30] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 16:41:30] [INFO] WhatsApp API Response Body: {"status":500,"message":"Failed sending priority WhatsApp chat!","data":false}
+[2026-02-08 16:46:39] [ERROR] API Error {"message":"number_format(): Argument #1 ($num) must be of type float, string given","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Controllers/PrintController.php","line":628}
+[2026-02-08 16:47:04] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 16:47:18] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text"}
+[2026-02-08 16:47:18] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 16:47:18] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3611"}}
+[2026-02-08 16:47:26] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 16:47:52] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 16:48:03] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 16:48:11] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 16:49:39] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 16:49:51] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document"}
+[2026-02-08 16:49:51] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 16:49:51] [INFO] WhatsApp API Response Body: {"status":500,"message":"Failed sending priority WhatsApp chat!","data":false}
+[2026-02-08 16:54:53] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document"}
+[2026-02-08 16:54:53] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 16:54:53] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3613"}}
+[2026-02-08 16:56:58] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 16:57:12] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text"}
+[2026-02-08 16:57:12] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 16:57:12] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3614"}}
+[2026-02-08 16:57:18] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 16:57:53] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text"}
+[2026-02-08 16:57:53] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 16:57:53] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3615"}}
+[2026-02-08 16:58:15] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 16:58:16] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 16:58:16] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 16:58:21] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 16:58:21] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 16:58:22] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 16:58:28] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 16:58:31] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 16:58:31] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 16:58:32] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 16:58:32] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 16:58:37] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 16:58:45] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 16:58:47] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 16:59:09] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 17:01:07] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:01:08] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:01:10] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:01:12] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:01:18] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 17:01:22] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:01:23] [INFO] Prescription PDF Generated successfully for Visit #25. Size: 31369 bytes.
+[2026-02-08 17:01:25] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document","has_file":true,"has_url":false,"fields":"secret, account, recipient, type, message, priority, document_file, document_name"}
+[2026-02-08 17:01:25] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 17:01:25] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3616"}}
+[2026-02-08 17:04:18] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 17:04:29] [INFO] Local environment detected in sendDocument. Sending as text link.
+[2026-02-08 17:04:31] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority"}
+[2026-02-08 17:04:31] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 17:04:31] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3617"}}
+[2026-02-08 17:10:33] [INFO] PDF Generated successfully for Invoice #51. Size: 30233 bytes.
+[2026-02-08 17:10:33] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority, file, filename"}
+[2026-02-08 17:10:33] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 17:10:33] [INFO] WhatsApp API Response Body: {"status":400,"message":"Invalid Document File!","data":false}
+[2026-02-08 17:11:12] [INFO] PDF Generated successfully for Invoice #52. Size: 30238 bytes.
+[2026-02-08 17:11:13] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority, file, filename"}
+[2026-02-08 17:11:13] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 17:11:13] [INFO] WhatsApp API Response Body: {"status":400,"message":"Invalid Document File!","data":false}
+[2026-02-08 17:13:38] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 17:13:50] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority"}
+[2026-02-08 17:13:50] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 17:13:50] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3618"}}
+[2026-02-08 17:13:58] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 17:14:04] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority"}
+[2026-02-08 17:14:04] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 17:14:04] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3619"}}
+[2026-02-08 17:14:25] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:14:29] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:14:34] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:14:34] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:15:03] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:15:07] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:15:09] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 17:15:22] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:15:22] [ERROR] API Error {"message":"htmlspecialchars(): Argument #1 ($string) must be of type string, int given","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Controllers/PrintController.php","line":558}
+[2026-02-08 17:15:33] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 17:15:37] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 17:15:58] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 17:16:10] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority"}
+[2026-02-08 17:16:10] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 17:16:10] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3620"}}
+[2026-02-08 17:16:14] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 17:16:16] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 17:16:17] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 17:16:22] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority"}
+[2026-02-08 17:16:22] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 17:16:22] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3621"}}
+[2026-02-08 17:16:30] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:16:35] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:16:36] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:16:39] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:16:43] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-08 17:19:25] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:19:26] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:19:30] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:19:53] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:19:53] [ERROR] API Error {"message":"htmlspecialchars(): Argument #1 ($string) must be of type string, int given","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Controllers/PrintController.php","line":558}
+[2026-02-08 17:20:41] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:20:42] [INFO] Prescription PDF Generated successfully for Visit #27. Size: 33380 bytes.
+[2026-02-08 17:20:45] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document","has_file":true,"has_url":false,"fields":"secret, account, recipient, type, message, priority, document_file, document_name"}
+[2026-02-08 17:20:45] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 17:20:45] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3622"}}
+[2026-02-08 17:24:11] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 17:24:25] [INFO] PDF Generated successfully for Invoice #53. Size: 30233 bytes.
+[2026-02-08 17:24:28] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document","has_file":true,"has_url":false,"fields":"secret, account, recipient, type, message, priority, document_file, document_name"}
+[2026-02-08 17:24:28] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 17:24:28] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3623"}}
+[2026-02-08 17:35:45] [INFO] PDF Generated successfully for Invoice #54. Size: 30232 bytes.
+[2026-02-08 17:35:47] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document","has_file":true,"has_url":false,"fields":"secret, account, recipient, type, message, priority, document_file, document_name"}
+[2026-02-08 17:35:47] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 17:35:47] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3624"}}
+[2026-02-08 17:41:43] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 17:41:53] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority"}
+[2026-02-08 17:41:53] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 17:41:53] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3625"}}
+[2026-02-08 17:42:02] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 17:42:07] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority"}
+[2026-02-08 17:42:07] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 17:42:07] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3626"}}
+[2026-02-08 17:42:41] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:42:41] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:42:44] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:42:45] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:42:49] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:43:40] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:44:35] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 17:45:51] [INFO] WhatsApp PDF Generated by reusing view for Invoice #55.
+[2026-02-08 17:45:54] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document","has_file":true,"has_url":false,"fields":"secret, account, recipient, type, message, priority, document_file, document_name"}
+[2026-02-08 17:45:54] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 17:45:54] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3627"}}
+[2026-02-08 17:58:42] [INFO] Expired OTPs cleaned up {"count":1}
+[2026-02-08 17:58:44] [INFO] WhatsApp OTP sent {"recipient":"9952048535"}
+[2026-02-08 17:58:44] [INFO] OTP generated {"otp_id":"14","mobile_number":"9952048535","purpose":"login","expires_at":"2026-02-08 18:03:42"}
+[2026-02-08 17:58:50] [INFO] OTP verified successfully {"otp_id":14,"mobile_number":"9952048535","purpose":"login"}
+[2026-02-08 17:58:50] [INFO] User logged in via OTP {"user_id":5}
+[2026-02-08 17:58:50] [INFO] User logged in via OTP Bridge {"user_id":5}
+[2026-02-08 17:58:59] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 17:59:16] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority"}
+[2026-02-08 17:59:16] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 17:59:16] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3629"}}
+[2026-02-08 17:59:21] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 17:59:26] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority"}
+[2026-02-08 17:59:26] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 17:59:26] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3630"}}
+[2026-02-08 17:59:43] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:59:46] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:59:47] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:59:49] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:59:51] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 17:59:53] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 18:00:01] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 18:00:28] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 18:00:52] [ERROR] PHP Error {"message":"Undefined array key \"visit_id\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/VisitController.php","line":227}
+[2026-02-08 18:01:57] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 18:02:11] [ERROR] Failed to reuse view for Invoice PDF: Cannot write to an undeclared property Mpdf\Mpdf::$curlAllowUnsafeSsl
+[2026-02-08 18:02:11] [INFO] Local environment detected in sendDocument. Attempting binary upload.
+[2026-02-08 18:03:12] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority"}
+[2026-02-08 18:03:12] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 18:03:12] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3631"}}
+[2026-02-08 18:10:03] [INFO] WhatsApp PDF Generated by reusing view for Invoice #58.
+[2026-02-08 18:10:07] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document","has_file":true,"has_url":false,"fields":"secret, account, recipient, type, message, priority, document_file, document_name"}
+[2026-02-08 18:10:07] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 18:10:07] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3632"}}
+[2026-02-08 18:10:07] [INFO] Invoice #58 saved to permanent storage and queued for WhatsApp.
+[2026-02-08 18:19:56] [ERROR] Failed to reuse view for Invoice PDF: Cannot write to an undeclared property Mpdf\Mpdf::$curlAllowUnsafeSsl
+[2026-02-08 18:19:56] [INFO] Local environment detected in sendDocument. Attempting binary upload.
+[2026-02-08 18:20:58] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority"}
+[2026-02-08 18:20:58] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 18:20:58] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3633"}}
+[2026-02-08 18:26:53] [ERROR] API Error {"message":"App\\Api\\Controllers\\BillingController::queueWhatsAppNotification(): Argument #1 ($invoiceId) must be of type int, string given, called in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php on line 379","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/BillingController.php","line":263}
+[2026-02-08 18:28:04] [ERROR] API Error {"message":"number_format(): Argument #1 ($num) must be of type float, string given","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Controllers/PrintController.php","line":642}
+[2026-02-08 18:29:31] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 18:29:40] [ERROR] Failed to generate Invoice PDF: Cannot write to an undeclared property Mpdf\Mpdf::$curlAllowUnsafeSsl
+[2026-02-08 18:29:40] [ERROR] Failed to generate PDF for invoice #64
+[2026-02-08 18:31:11] [ERROR] Failed to generate Invoice PDF: Cannot write to an undeclared property Mpdf\Mpdf::$curlAllowUnsafeSsl
+[2026-02-08 18:31:11] [ERROR] Failed to generate PDF for invoice #65
+[2026-02-08 18:34:37] [ERROR] Failed to generate Invoice PDF: Cannot write to an undeclared property Mpdf\Mpdf::$curlAllowUnsafeSsl
+[2026-02-08 18:34:37] [ERROR] Failed to generate PDF for invoice #66
+[2026-02-08 18:34:37] [ERROR] Invoice PDF file not found: /Applications/XAMPP/xamppfiles/htdocs/melina_hms/public/storage/invoices/Inv_BN-1975.pdf
+[2026-02-08 18:37:49] [ERROR] Failed to generate Invoice PDF: Mpdf\QrCode package was not found. Install the package from Packagist with "composer require mpdf/qrcode"
+[2026-02-08 18:37:49] [ERROR] Failed to generate PDF for invoice #67
+[2026-02-08 18:37:49] [ERROR] Invoice PDF file not found: /Applications/XAMPP/xamppfiles/htdocs/melina_hms/public/storage/invoices/Inv_BN-2575.pdf
+[2026-02-08 18:39:39] [INFO] Invoice PDF Generated for #68. Size: 160862 bytes.
+[2026-02-08 18:39:39] [INFO] Invoice #68 PDF saved to: /Applications/XAMPP/xamppfiles/htdocs/melina_hms/public/storage/invoices/Inv_BN-4492.pdf
+[2026-02-08 18:39:41] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document","has_file":true,"has_url":false,"fields":"secret, account, recipient, type, message, priority, document_file, document_name"}
+[2026-02-08 18:39:41] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 18:39:41] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3634"}}
+[2026-02-08 18:39:41] [INFO] Invoice #68 WhatsApp sent. Result: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3634"}}
+[2026-02-08 18:42:45] [INFO] Logo path: /Applications/XAMPP/xamppfiles/htdocs/melina_hms/assets/images/brand-logos/toggle-logo.png, exists: yes
+[2026-02-08 18:42:45] [INFO] Invoice PDF Generated for #69. Size: 160861 bytes.
+[2026-02-08 18:42:45] [INFO] Invoice #69 PDF saved to: /Applications/XAMPP/xamppfiles/htdocs/melina_hms/public/storage/invoices/Inv_BN-7664.pdf
+[2026-02-08 18:42:47] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document","has_file":true,"has_url":false,"fields":"secret, account, recipient, type, message, priority, document_file, document_name"}
+[2026-02-08 18:42:47] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 18:42:47] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3635"}}
+[2026-02-08 18:42:47] [INFO] Invoice #69 WhatsApp sent. Result: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3635"}}
+[2026-02-08 18:50:04] [INFO] Logo path: /Applications/XAMPP/xamppfiles/htdocs/melina_hms/assets/images/brand-logos/toggle-logo.png, exists: yes
+[2026-02-08 18:50:04] [INFO] Invoice PDF Generated for #70. Size: 160859 bytes.
+[2026-02-08 18:50:04] [INFO] Invoice #70 PDF saved to: /Applications/XAMPP/xamppfiles/htdocs/melina_hms/public/storage/invoices/Inv_BN-2125.pdf
+[2026-02-08 18:50:08] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document","has_file":true,"has_url":false,"fields":"secret, account, recipient, type, message, priority, document_file, document_name"}
+[2026-02-08 18:50:08] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 18:50:08] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3636"}}
+[2026-02-08 18:50:08] [INFO] Invoice #70 WhatsApp sent. Result: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3636"}}
+[2026-02-08 18:53:55] [INFO] Logo path: /Applications/XAMPP/xamppfiles/htdocs/melina_hms/assets/images/brand-logos/toggle-logo.png, exists: yes
+[2026-02-08 18:53:56] [INFO] Invoice PDF Generated for #73. Size: 160862 bytes.
+[2026-02-08 18:53:56] [INFO] Invoice #73 PDF saved to: /Applications/XAMPP/xamppfiles/htdocs/melina_hms/public/storage/invoices/Inv_BN-9817.pdf
+[2026-02-08 18:55:50] [INFO] Logo path: /Applications/XAMPP/xamppfiles/htdocs/melina_hms/assets/images/brand-logos/toggle-logo.png, exists: yes
+[2026-02-08 18:55:50] [INFO] Invoice PDF Generated for #74. Size: 160860 bytes.
+[2026-02-08 18:55:50] [INFO] Invoice #74 PDF saved to: /Applications/XAMPP/xamppfiles/htdocs/melina_hms/public/storage/invoices/Inv_BN-4190.pdf
+[2026-02-08 18:55:53] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document","has_file":true,"has_url":false,"fields":"secret, account, recipient, type, message, priority, document_file, document_name"}
+[2026-02-08 18:55:53] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 18:55:53] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3637"}}
+[2026-02-08 18:55:53] [INFO] Invoice #74 WhatsApp sent. Result: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3637"}}
+[2026-02-08 18:58:20] [INFO] Logo path: /Applications/XAMPP/xamppfiles/htdocs/melina_hms/assets/images/brand-logos/toggle-logo.png, exists: yes
+[2026-02-08 18:58:20] [INFO] Invoice PDF Generated for #75. Size: 160860 bytes.
+[2026-02-08 18:58:20] [INFO] Invoice #75 PDF saved to: /Applications/XAMPP/xamppfiles/htdocs/melina_hms/public/storage/invoices/Inv_BN-1415.pdf
+[2026-02-08 18:58:22] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document","has_file":true,"has_url":false,"fields":"secret, account, recipient, type, message, priority, document_file, document_name"}
+[2026-02-08 18:58:22] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 18:58:22] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3638"}}
+[2026-02-08 18:58:22] [INFO] Invoice #75 WhatsApp sent. Result: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3638"}}
+[2026-02-08 18:58:31] [INFO] Logo path: /Applications/XAMPP/xamppfiles/htdocs/melina_hms/assets/images/brand-logos/toggle-logo.png, exists: yes
+[2026-02-08 18:58:31] [INFO] Invoice PDF Generated for #76. Size: 160861 bytes.
+[2026-02-08 18:58:31] [INFO] Invoice #76 PDF saved to: /Applications/XAMPP/xamppfiles/htdocs/melina_hms/public/storage/invoices/Inv_BN-8643.pdf
+[2026-02-08 18:58:34] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document","has_file":true,"has_url":false,"fields":"secret, account, recipient, type, message, priority, document_file, document_name"}
+[2026-02-08 18:58:34] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 18:58:34] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3639"}}
+[2026-02-08 18:58:34] [INFO] Invoice #76 WhatsApp sent. Result: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3639"}}
+[2026-02-08 19:00:52] [INFO] Logo path: /Applications/XAMPP/xamppfiles/htdocs/melina_hms/assets/images/brand-logos/toggle-logo.png, exists: yes
+[2026-02-08 19:00:52] [INFO] Invoice PDF Generated for #77. Size: 160861 bytes.
+[2026-02-08 19:00:52] [INFO] Invoice #77 PDF saved to: /Applications/XAMPP/xamppfiles/htdocs/melina_hms/public/storage/invoices/Inv_BN-1430.pdf
+[2026-02-08 19:00:55] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"document","has_file":true,"has_url":false,"fields":"secret, account, recipient, type, message, priority, document_file, document_name"}
+[2026-02-08 19:00:55] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 19:00:55] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3643"}}
+[2026-02-08 19:00:55] [INFO] Invoice #77 WhatsApp sent. Result: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3643"}}
+[2026-02-08 19:01:06] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:01:11] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:01:14] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:02:32] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:02:35] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:03:00] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:03:21] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:06:26] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:08:52] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:08:53] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:08:54] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:13:00] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:13:06] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:13:46] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:13:54] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:15:27] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:15:38] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:16:00] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:17:16] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:17:58] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:19:40] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:19:41] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:19:41] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:20:26] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:20:31] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:22:21] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:22:58] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:24:24] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:25:39] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:25:46] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:25:58] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:27:03] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:27:14] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:28:47] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:29:36] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:31:27] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:31:44] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority"}
+[2026-02-08 19:31:44] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 19:31:44] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3644"}}
+[2026-02-08 19:32:03] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:34:17] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:34:30] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority"}
+[2026-02-08 19:34:30] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 19:34:30] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3645"}}
+[2026-02-08 19:34:42] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:37:24] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:37:38] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority"}
+[2026-02-08 19:37:38] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 19:37:38] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3646"}}
+[2026-02-08 19:38:01] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority"}
+[2026-02-08 19:38:01] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 19:38:01] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3647"}}
+[2026-02-08 19:39:26] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:39:45] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority"}
+[2026-02-08 19:39:45] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 19:39:45] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3648"}}
+[2026-02-08 19:39:46] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority"}
+[2026-02-08 19:39:46] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 19:39:46] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3649"}}
+[2026-02-08 19:40:22] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:40:31] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:43:01] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:46:29] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:49:05] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:50:21] [INFO] Unified user created {"user_id":"6","role":"receptionist"}
+[2026-02-08 19:50:22] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:50:56] [INFO] User logged in {"user_id":6,"username":"infi_fodavid"}
+[2026-02-08 19:51:08] [WARNING] Failed login attempt {"username":"fodavid@gmail.com"}
+[2026-02-08 19:51:30] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:52:15] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 19:58:06] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 20:03:52] [INFO] User logged in {"user_id":6,"username":"infi_fodavid"}
+[2026-02-08 20:06:42] [INFO] User logged in {"user_id":6,"username":"infi_fodavid"}
+[2026-02-08 20:11:59] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 20:12:00] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 20:52:44] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 20:52:55] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority"}
+[2026-02-08 20:52:55] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 20:52:55] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3656"}}
+[2026-02-08 20:52:57] [INFO] WhatsApp API Request: {"url":"https:\/\/billmsg.com\/api\/send\/whatsapp","recipient":"919952048535","type":"text","has_file":false,"has_url":false,"fields":"secret, account, recipient, type, message, priority"}
+[2026-02-08 20:52:57] [INFO] WhatsApp API Response Status: 200
+[2026-02-08 20:52:57] [INFO] WhatsApp API Response Body: {"status":200,"message":"WhatsApp chat has been sent!","data":{"messageId":"3657"}}
+[2026-02-08 21:39:33] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-02-08 21:39:38] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-02-08 21:39:38] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 21:39:45] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 21:39:51] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-02-08 21:39:51] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 21:39:56] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 21:40:17] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 21:40:21] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 21:40:25] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 21:41:44] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 21:41:45] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 21:41:46] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 21:41:46] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 21:41:46] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 21:41:49] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 21:42:03] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 21:42:26] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 21:42:58] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 21:44:01] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 21:44:58] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 21:49:48] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 22:07:11] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 22:11:16] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 22:11:27] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 22:14:18] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 22:14:20] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 22:14:21] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 22:14:26] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}
+[2026-02-08 22:14:57] [ERROR] PHP Error {"message":"Undefined array key \"badge_source\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/partials/sidebar.php","line":66}

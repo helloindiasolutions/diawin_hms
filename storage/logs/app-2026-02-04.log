@@ -1,0 +1,80 @@
+[2026-02-04 15:27:06] [WARNING] Failed login attempt {"username":"sa@stccommex.com"}
+[2026-02-04 15:27:09] [WARNING] Failed login attempt {"username":"admin@gmail.com"}
+[2026-02-04 15:27:12] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-02-04 15:27:12] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_available' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":98}
+[2026-02-04 15:30:03] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_available' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":98}
+[2026-02-04 15:30:15] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_available' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":98}
+[2026-02-04 15:30:21] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_available' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":98}
+[2026-02-04 15:32:10] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ip.ward' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":98}
+[2026-02-04 15:37:10] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-02-04 15:38:08] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ip.ward' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":98}
+[2026-02-04 15:38:08] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ip.ward' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":98}
+[2026-02-04 15:38:08] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ip.ward' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":98}
+[2026-02-04 16:53:34] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-02-04 19:05:22] [ERROR] API Error {"message":"Unknown named parameter $id","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Router.php","line":170}
+[2026-02-04 19:05:36] [ERROR] API Error {"message":"Unknown named parameter $id","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Router.php","line":170}
+[2026-02-04 19:19:54] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:19:56] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:23] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:24] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:25] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:27] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:28] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:29] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:30] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:31] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:32] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:33] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:33] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:34] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:35] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:36] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:45] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:47] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:48] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:49] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:51] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:52] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:53] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:55] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:57] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:31:59] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:32:04] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:32:05] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:32:06] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:32:08] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:32:09] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:32:09] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:32:10] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:32:12] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:35:43] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:35:45] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:35:46] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:35:48] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:35:49] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:35:50] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:35:51] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:35:52] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:35:53] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:35:54] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:35:55] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:35:56] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:35:57] [INFO] Remote DB Connection Attempt {"host":"srv971.hstgr.io","port":"3306","database":"u602093072_melina","username":"u602093072_melina","password_length":15,"password_last_3":"!@#"}
+[2026-02-04 19:41:39] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-02-04 20:47:21] [INFO] Patient created {"patient_id":"12","mrn":"MRN26000012","user_id":1}
+[2026-02-04 22:33:56] [ERROR] Uncaught Exception {"message":"SQLSTATE[42S02]: Base table or view not found: 1146 Table 'melina_hms.doctors' doesn't exist","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":98}
+[2026-02-04 22:36:41] [ERROR] Uncaught Exception {"message":"SQLSTATE[42S02]: Base table or view not found: 1146 Table 'melina_hms.doctors' doesn't exist","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":98}
+[2026-02-04 23:20:53] [ERROR] Uncaught Exception {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.first_name' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":98}
+[2026-02-04 23:21:05] [ERROR] Uncaught Exception {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'd.first_name' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":98}
+[2026-02-04 23:25:29] [ERROR] PHP Error {"message":"Undefined array key \"gender\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/billing/print.php","line":366}
+[2026-02-04 23:25:31] [ERROR] PHP Error {"message":"Undefined array key \"gender\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/billing/print.php","line":366}
+[2026-02-04 23:25:33] [ERROR] PHP Error {"message":"Undefined array key \"gender\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/billing/print.php","line":366}
+[2026-02-04 23:31:49] [ERROR] PHP Error {"message":"Undefined array key \"tax_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/billing/print.php","line":489}
+[2026-02-04 23:31:53] [ERROR] PHP Error {"message":"Undefined array key \"tax_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/billing/print.php","line":489}
+[2026-02-04 23:31:54] [ERROR] PHP Error {"message":"Undefined array key \"tax_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/billing/print.php","line":489}
+[2026-02-04 23:31:55] [ERROR] PHP Error {"message":"Undefined array key \"tax_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/billing/print.php","line":489}
+[2026-02-04 23:31:56] [ERROR] PHP Error {"message":"Undefined array key \"tax_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/billing/print.php","line":489}
+[2026-02-04 23:35:40] [ERROR] PHP Error {"message":"Undefined array key \"tax_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/billing/print.php","line":487}
+[2026-02-04 23:38:43] [ERROR] PHP Error {"message":"Undefined array key \"tax_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/billing/print.php","line":487}
+[2026-02-04 23:38:51] [ERROR] PHP Error {"message":"Undefined array key \"tax_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/billing/print.php","line":487}
+[2026-02-04 23:40:03] [ERROR] PHP Error {"message":"Undefined array key \"tax_total\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/billing/print.php","line":502}

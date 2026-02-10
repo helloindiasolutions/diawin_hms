@@ -1,0 +1,182 @@
+
+<!-- This code generates the base URL for the website by combining the protocol, domain name, and directory path -->
+<?php
+    $rootFolder = basename($_SERVER['DOCUMENT_ROOT']);
+    $baseUrl = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https://' : 'http://') . $_SERVER['HTTP_HOST'] . str_replace('/pages', '', dirname($_SERVER['SCRIPT_NAME']));
+?>
+<!-- This code generates the base URL for the website by combining the protocol, domain name, and directory path -->
+
+<!-- This code is useful for internal styles  -->
+<?php ob_start(); ?>
+
+        <link rel="stylesheet" href="<?php echo $baseUrl; ?>/assets/libs/apexcharts/apexcharts.css">
+
+<?php $styles = ob_get_clean(); ?>
+<!-- This code is useful for internal styles  -->
+
+<!-- This code is useful for content -->
+<?php ob_start(); ?>
+	
+                    <!-- Start::page-header -->
+                    <div class="page-header-breadcrumb mb-3">
+                        <div class="d-flex align-center justify-content-between flex-wrap">
+                            <h1 class="page-title fw-medium fs-18 mb-0">Apex Line Charts</h1>
+                            <ol class="breadcrumb mb-0">
+                                <li class="breadcrumb-item">
+                                    <a href="javascript:void(0);">
+                                        Charts
+                                    </a>
+                                </li>
+                                <li class="breadcrumb-item">
+                                    <a href="javascript:void(0);">
+                                        Apex Charts
+                                    </a>
+                                </li>
+                                <li class="breadcrumb-item active" aria-current="page">Apex Line Charts</li>
+                            </ol>
+                        </div>
+                    </div>
+                    <!-- End::page-header -->
+
+                    <!-- Start::row-1 -->
+                    <div class="row">
+                        <div class="col-xl-6">
+                            <div class="card custom-card">
+                                <div class="card-header">
+                                    <div class="card-title">Basic Line Chart</div>
+                                </div>
+                                <div class="card-body">
+                                    <div id="line-chart"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="card custom-card">
+                                <div class="card-header">
+                                    <div class="card-title">Line Chart With Data Labels</div>
+                                </div>
+                                <div class="card-body">
+                                    <div id="line-chart-datalabels"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="card custom-card">
+                                <div class="card-header">
+                                    <div class="card-title">Zoomable Time Series</div>
+                                </div>
+                                <div class="card-body">
+                                    <div id="zoom-chart"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="card custom-card">
+                                <div class="card-header">
+                                    <div class="card-title">Line With Annotations</div>
+                                </div>
+                                <div class="card-body">
+                                    <div id="annotation-chart"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="card custom-card">
+                                <div class="card-header">
+                                    <div class="card-title">Brush Chart</div>
+                                </div>
+                                <div class="card-body">
+                                    <div id="brush-chart1"></div>
+                                    <div id="brush-chart"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="card custom-card">
+                                <div class="card-header">
+                                    <div class="card-title">StepLine Chart</div>
+                                </div>
+                                <div class="card-body">
+                                    <div id="stepline-chart"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="card custom-card">
+                                <div class="card-header">
+                                    <div class="card-title">Gradient Line Chart</div>
+                                </div>
+                                <div class="card-body">
+                                    <div id="gradient-chart"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="card custom-card">
+                                <div class="card-header">
+                                    <div class="card-title">Missing/Null Values Chart</div>
+                                </div>
+                                <div class="card-body">
+                                    <div id="null-chart"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="card custom-card">
+                                <div class="card-header">
+                                    <div class="card-title">Real Time Chart</div>
+                                </div>
+                                <div class="card-body">
+                                    <div id="dynamic-chart"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="card custom-card">
+                                <div class="card-header">
+                                    <div class="card-title">Dashed Line Chart</div>
+                                </div>
+                                <div class="card-body">
+                                    <div id="dashed-chart"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="card custom-card">
+                                <div class="card-header">
+                                    <div class="card-title">Syncing Charts</div>
+                                </div>
+                                <div class="card-body">
+                                    <div id="chart-line"></div>
+                                    <div id="chart-line2"></div>
+                                    <div id="chart-area"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End::row-1 -->
+
+<?php $content = ob_get_clean(); ?>
+<!-- This code is useful for content -->
+
+<!-- This code is useful for internal scripts  -->
+<?php ob_start(); ?>
+	
+        <!-- Apex Charts JS -->
+        <script src="<?php echo $baseUrl; ?>/assets/libs/apexcharts/apexcharts.min.js"></script>
+
+        <!-- Used In Zoomable TIme Series Chart -->
+        <script src="<?php echo $baseUrl; ?>/assets/js/dataseries.js"></script>
+
+        <!---Used In Annotations Chart-->
+        <script src="<?php echo $baseUrl; ?>/assets/js/apexcharts-stock-prices.js"></script>
+
+        <!-- Internal Apex Line Charts JS -->
+        <script src="<?php echo $baseUrl; ?>/assets/js/apexcharts-line.js"></script>
+
+<?php $scripts = ob_get_clean(); ?>
+<!-- This code is useful for internal scripts  -->
+
+<!-- This code use for render base file -->
+<?php include 'layouts/base.php'; ?>
+<!-- This code use for render base file -->

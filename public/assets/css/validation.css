@@ -1,0 +1,28 @@
+/* Global Form Validation Styles */
+.form-control.is-invalid,
+.form-select.is-invalid {
+    border-color: #dc3545 !important;
+    background-image: none !important;
+}
+
+.invalid-feedback {
+    display: none;
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 0.875em;
+    color: #dc3545;
+    font-weight: 500;
+}
+
+.form-control.is-invalid~.invalid-feedback,
+.form-select.is-invalid~.invalid-feedback {
+    display: block;
+}
+
+/* Disabled button state for invalid forms */
+button[type="submit"]:disabled {
+    opacity: 0.65;
+    cursor: not-allowed;
+    background-color: #6c757d !important;
+    border-color: #6c757d !important;
+}

@@ -1,0 +1,468 @@
+/**
+ * HMS Sidebar Menu Styles
+ * 
+ * Provides styling for:
+ * - Menu badges with color coding
+ * - Active state highlighting
+ * - Hover effects and transitions
+ * - Responsive design for mobile/tablet
+ * - Search functionality
+ * - Branch selector
+ */
+
+/* Default Sidebar Width - CRITICAL FIX */
+.app-sidebar {
+    width: 16rem !important;
+    min-width: 16rem;
+}
+
+/* Ensure sidebar is visible by default */
+[data-nav-layout="vertical"] .app-sidebar {
+    width: 16rem !important;
+    min-width: 16rem;
+}
+
+/* Badge Styles */
+.side-menu__item .menu-badge,
+.side-menu__item .badge {
+    display: inline-block;
+    padding: 0.25rem 0.5rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    line-height: 1;
+    border-radius: 0.375rem;
+    margin-left: auto;
+    min-width: 1.5rem;
+    text-align: center;
+}
+
+/* Badge Color Coding */
+.menu-badge[data-badge-source="queue_count"],
+.menu-badge[data-badge-source="outstanding_bills"] {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+.menu-badge[data-badge-source="expiry_alerts"],
+.menu-badge[data-badge-source="pending_estimates"] {
+    background-color: #ffc107;
+    color: #212529;
+}
+
+.menu-badge[data-badge-source="my_patients"],
+.menu-badge[data-badge-source="available_beds"] {
+    background-color: #0d6efd;
+    color: #fff;
+}
+
+/* Active State Highlighting */
+.side-menu__item.active {
+    background-color: rgba(var(--primary-rgb), 0.1);
+    border-left: 3px solid rgb(var(--primary-rgb));
+    background-color: rgba(var(--primary-rgb), 0.5) !important;
+
+    font-weight: 600;
+}
+
+.side-menu__item.active .side-menu__icon {
+    color: rgb(var(--primary-rgb));
+}
+
+/* Dark mode active state */
+[data-theme-mode="dark"] .side-menu__item.active {
+    background-color: rgba(var(--primary-rgb), 0.15);
+}
+
+/* Hover Effects */
+.side-menu__item:hover {
+    background-color: rgba(var(--primary-rgb), 0.05);
+    transition: background-color 0.2s ease;
+}
+
+[data-theme-mode="dark"] .side-menu__item:hover {
+    background-color: rgba(var(--primary-rgb), 0.1);
+}
+
+/* Smooth Transitions */
+.side-menu__item,
+.slide-menu,
+.menu-badge {
+    transition: all 0.3s ease;
+}
+
+/* Search Input Styling */
+#menuSearch {
+    width: 100%;
+    padding: 0.5rem 1rem;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 0.375rem;
+    font-size: 0.875rem;
+    margin: 1rem;
+    width: calc(100% - 2rem);
+}
+
+#menuSearch:focus {
+    outline: none;
+    border-color: rgb(var(--primary-rgb));
+    box-shadow: 0 0 0 0.2rem rgba(var(--primary-rgb), 0.25);
+}
+
+[data-theme-mode="dark"] #menuSearch {
+    background-color: rgba(255, 255, 255, 0.05);
+    border-color: rgba(255, 255, 255, 0.1);
+    color: #fff;
+}
+
+/* Branch Selector Styling */
+#branchSelector {
+    width: calc(100% - 2rem);
+    margin: 0.5rem 1rem;
+    padding: 0.5rem;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 0.375rem;
+    font-size: 0.875rem;
+}
+
+[data-theme-mode="dark"] #branchSelector {
+    background-color: rgba(255, 255, 255, 0.05);
+    border-color: rgba(255, 255, 255, 0.1);
+    color: #fff;
+}
+
+.branch-info {
+    padding: 0.5rem 1rem;
+    margin: 0.5rem 1rem;
+    background-color: rgba(var(--primary-rgb), 0.1);
+    border-radius: 0.375rem;
+    font-size: 0.875rem;
+    color: rgb(var(--primary-rgb));
+}
+
+/* Expanded/Collapsed States (Vertical Only) */
+[data-nav-layout="vertical"] .slide.has-sub>.slide-menu {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+}
+
+[data-nav-layout="vertical"] .slide.has-sub.open>.slide-menu {
+    display: block !important;
+    max-height: 2000px;
+    /* Increased for deeper submenus */
+}
+
+/* Force close submenus when sidebar is collapsed (icon-only modes) */
+[data-vertical-style="overlay"][data-toggled="icon-overlay-close"]:not([data-icon-overlay="open"]) .slide.has-sub.open>.slide-menu,
+[data-vertical-style="detached"][data-toggled="detached-close"]:not([data-icon-overlay="open"]) .slide.has-sub.open>.slide-menu,
+[data-vertical-style="icontext"][data-toggled="icon-text-close"]:not([data-icon-text="open"]) .slide.has-sub.open>.slide-menu,
+[data-vertical-style="closed"][data-toggled="close-menu-close"] .slide.has-sub.open>.slide-menu {
+    max-height: 0 !important;
+    display: none !important;
+}
+
+/* When sidebar is hovered/opened, allow submenus to show */
+[data-vertical-style="overlay"][data-icon-overlay="open"] .slide.has-sub.open>.slide-menu,
+[data-vertical-style="detached"][data-icon-overlay="open"] .slide.has-sub.open>.slide-menu,
+[data-vertical-style="icontext"][data-icon-text="open"] .slide.has-sub.open>.slide-menu {
+    display: block !important;
+    max-height: 2000px !important;
+}
+
+/* Chevron Rotation */
+.side-menu__angle {
+    transition: transform 0.3s ease;
+}
+
+.slide.has-sub.open>.side-menu__item .side-menu__angle {
+    transform: rotate(90deg);
+}
+
+[data-nav-layout="horizontal"] .side-menu__angle {
+    transform: rotate(90deg);
+}
+
+/* Hidden Items (for search filtering) */
+.slide[style*="display: none"] {
+    display: none !important;
+}
+
+/* Horizontal Layout Fixes: Allow dropdowns to overflow containers and float properly */
+[data-nav-layout="horizontal"] .app-sidebar,
+[data-nav-layout="horizontal"] .main-sidebar,
+[data-nav-layout="horizontal"] .main-menu-container,
+[data-nav-layout="horizontal"] #sidebar-scroll,
+[data-nav-layout="horizontal"] .main-menu {
+    overflow: visible !important;
+}
+
+[data-nav-layout="horizontal"] .slide-menu {
+    z-index: 9999 !important;
+}
+
+/* Responsive Design - Mobile (< 767px) */
+@media (max-width: 767px) {
+
+    /* Collapse sidebar to icon-only view */
+    .app-sidebar {
+        width: 60px;
+    }
+
+    .app-sidebar .side-menu__label {
+        display: none;
+    }
+
+    .app-sidebar .menu-badge {
+        display: none;
+    }
+
+    .app-sidebar .side-menu__angle {
+        display: none;
+    }
+
+    /* Expand sidebar as overlay when active */
+    .app-sidebar.expanded {
+        width: 260px;
+        position: fixed;
+        z-index: 1000;
+        box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .app-sidebar.expanded .side-menu__label {
+        display: inline-block;
+    }
+
+    .app-sidebar.expanded .menu-badge {
+        display: inline-block;
+    }
+
+    .app-sidebar.expanded .side-menu__angle {
+        display: inline-block;
+    }
+
+    /* Overlay backdrop */
+    #responsive-overlay.active {
+        display: block;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, 0.5);
+        z-index: 999;
+    }
+
+    /* Hide search and branch selector on collapsed mobile */
+    .app-sidebar:not(.expanded) #menuSearch,
+    .app-sidebar:not(.expanded) #branchSelector,
+    .app-sidebar:not(.expanded) .branch-info {
+        display: none;
+    }
+}
+
+/* Responsive Design - Tablet (768px - 1024px) */
+@media (min-width: 768px) and (max-width: 1024px) {
+    .app-sidebar {
+        width: 220px;
+    }
+
+    .side-menu__label {
+        font-size: 0.875rem;
+    }
+
+    .side-menu__icon {
+        font-size: 1.125rem;
+    }
+
+    .menu-badge {
+        font-size: 0.7rem;
+        padding: 0.2rem 0.4rem;
+    }
+}
+
+/* Loading State */
+.sidebar-loading {
+    opacity: 0.6;
+    pointer-events: none;
+}
+
+.sidebar-loading::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40px;
+    height: 40px;
+    border: 3px solid rgba(var(--primary-rgb), 0.3);
+    border-top-color: rgb(var(--primary-rgb));
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: translate(-50%, -50%) rotate(360deg);
+    }
+}
+
+/* Error State */
+.sidebar-error {
+    padding: 1rem;
+    margin: 1rem;
+    background-color: #f8d7da;
+    border: 1px solid #f5c2c7;
+    border-radius: 0.375rem;
+    color: #842029;
+    font-size: 0.875rem;
+}
+
+[data-theme-mode="dark"] .sidebar-error {
+    background-color: rgba(220, 53, 69, 0.2);
+    border-color: rgba(220, 53, 69, 0.3);
+    color: #f8d7da;
+}
+
+/* Keyboard Focus Styles */
+.side-menu__item:focus {
+    outline: 2px solid rgb(var(--primary-rgb));
+    outline-offset: -2px;
+}
+
+/* Smooth Scroll for Sidebar */
+.main-sidebar {
+    scroll-behavior: smooth;
+}
+
+/* Category Headers */
+.slide__category {
+    padding: 0.75rem 1rem;
+    margin-top: 1rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+[data-theme-mode="dark"] .slide__category {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+/* First category - no top margin */
+.slide__category:first-child {
+    margin-top: 0;
+}
+
+/* Submenu Indentation */
+.slide-menu .slide-menu {
+    padding-left: 1rem;
+}
+
+/* Submenu Items */
+.slide-menu .side-menu__item {
+    padding-left: 2.5rem;
+    font-size: 0.875rem;
+}
+
+.slide-menu .slide-menu .side-menu__item {
+    padding-left: 3.5rem;
+    font-size: 0.8125rem;
+}
+
+/* Hospital Name in Sidebar - Premium Font */
+.hospital-name-sidebar {
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: -0.3px;
+    color: #ffffff;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: color 0.2s ease, opacity 0.3s ease, width 0.3s ease;
+    line-height: 1.2;
+    opacity: 1;
+    width: auto;
+}
+
+[data-theme-mode="dark"] .hospital-name-sidebar {
+    color: #fff;
+}
+
+.main-sidebar-header .header-logo:hover .hospital-name-sidebar {
+    color: var(--primary-color);
+}
+
+/* Hide sidebar hospital name when sidebar is collapsed/icon mode */
+[data-toggled="icon-overlay-close"] .hospital-name-sidebar,
+[data-toggled="icon-click-closed"] .hospital-name-sidebar,
+[data-toggled="icon-hover-closed"] .hospital-name-sidebar,
+[data-toggled="detached-close"] .hospital-name-sidebar,
+[data-toggled="close-menu-close"] .hospital-name-sidebar {
+    opacity: 0 !important;
+    width: 0 !important;
+    overflow: hidden;
+}
+
+/* Show when sidebar is open or in default state */
+[data-toggled="open"] .hospital-name-sidebar,
+[data-toggled="icon-overlay"] .hospital-name-sidebar,
+[data-toggled="icon-click"] .hospital-name-sidebar,
+[data-toggled="icon-hover"] .hospital-name-sidebar,
+[data-toggled="detached"] .hospital-name-sidebar,
+[data-nav-layout="vertical"]:not([data-toggled]) .hospital-name-sidebar {
+    opacity: 1 !important;
+    width: auto !important;
+}
+
+/* Responsive - Adjust size on smaller screens */
+@media (max-width: 991px) {
+    .hospital-name-sidebar {
+        font-size: 15px;
+    }
+}
+
+
+/* Active Submenu Item Styling - Full Background Highlight */
+[data-nav-layout="vertical"] .app-sidebar .slide-menu.child1 .side-menu__item.active,
+[data-nav-layout="vertical"] .app-sidebar .slide-menu.child2 .side-menu__item.active,
+[data-nav-layout="vertical"] .app-sidebar .slide-menu.child3 .side-menu__item.active {
+    background-color: var(--primary01) !important;
+    color: var(--primary-color) !important;
+    font-weight: 500;
+    border-radius: 0.3rem;
+}
+
+[data-nav-layout="vertical"] .app-sidebar .slide-menu.child1 .side-menu__item.active .side-menu__icon,
+[data-nav-layout="vertical"] .app-sidebar .slide-menu.child2 .side-menu__item.active .side-menu__icon,
+[data-nav-layout="vertical"] .app-sidebar .slide-menu.child3 .side-menu__item.active .side-menu__icon {
+    color: var(--primary-color) !important;
+    fill: var(--primary-color) !important;
+}
+
+[data-nav-layout="vertical"] .app-sidebar .slide-menu.child1 .side-menu__item.active .side-menu__label,
+[data-nav-layout="vertical"] .app-sidebar .slide-menu.child2 .side-menu__item.active .side-menu__label,
+[data-nav-layout="vertical"] .app-sidebar .slide-menu.child3 .side-menu__item.active .side-menu__label {
+    color: var(--primary-color) !important;
+}
+
+/* Remove the bullet point indicator for active items since we have full background */
+[data-nav-layout="vertical"] .app-sidebar .slide-menu.child1 .side-menu__item.active:before,
+[data-nav-layout="vertical"] .app-sidebar .slide-menu.child2 .side-menu__item.active:before,
+[data-nav-layout="vertical"] .app-sidebar .slide-menu.child3 .side-menu__item.active:before {
+    opacity: 0 !important;
+}
+
+/* Hover effect for submenu items */
+[data-nav-layout="vertical"] .app-sidebar .slide-menu.child1 .side-menu__item:hover,
+[data-nav-layout="vertical"] .app-sidebar .slide-menu.child2 .side-menu__item:hover,
+[data-nav-layout="vertical"] .app-sidebar .slide-menu.child3 .side-menu__item:hover {
+    background-color: var(--primary01) !important;
+    color: var(--primary-color) !important;
+}
+
+[data-nav-layout="vertical"] .app-sidebar .slide-menu.child1 .side-menu__item:hover .side-menu__icon,
+[data-nav-layout="vertical"] .app-sidebar .slide-menu.child2 .side-menu__item:hover .side-menu__icon,
+[data-nav-layout="vertical"] .app-sidebar .slide-menu.child3 .side-menu__item:hover .side-menu__icon {
+    color: var(--primary-color) !important;
+    fill: var(--primary-color) !important;
+}

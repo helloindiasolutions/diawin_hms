@@ -1,0 +1,275 @@
+[2026-01-16 18:15:17] [INFO] User logged in {"email":"sa@stccommex.com"}
+[2026-01-16 19:19:53] [WARNING] Failed login attempt {"username":"admin@gmail.com"}
+[2026-01-16 19:22:53] [WARNING] Failed login attempt {"username":"admin"}
+[2026-01-16 19:23:07] [WARNING] Failed login attempt {"username":"admin"}
+[2026-01-16 19:23:56] [WARNING] Failed login attempt {"username":"admin@gmail.com"}
+[2026-01-16 19:24:04] [WARNING] Failed login attempt {"username":"admin@gmail.com"}
+[2026-01-16 19:24:16] [WARNING] Failed login attempt {"username":"admin@melinahms.com"}
+[2026-01-16 19:24:25] [WARNING] Failed login attempt {"username":"admin@melinahms.com"}
+[2026-01-16 19:25:09] [WARNING] Failed login attempt {"username":"admin"}
+[2026-01-16 19:25:25] [WARNING] Failed login attempt {"username":"admin"}
+[2026-01-16 19:25:38] [WARNING] Failed login attempt {"username":"admin"}
+[2026-01-16 19:28:49] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 19:29:08] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 19:35:59] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 20:22:02] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 20:25:20] [ERROR] API Error {"message":"Call to undefined method System\\Database::execute()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Services/ThemeService.php","line":84}
+[2026-01-16 20:25:51] [ERROR] API Error {"message":"Call to undefined method System\\Database::execute()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Services/ThemeService.php","line":82}
+[2026-01-16 20:26:12] [ERROR] API Error {"message":"App\\Services\\ThemeService::getChangesSince(): Argument #1 ($since) must be of type string, null given, called in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/ThemeController.php on line 150","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Services/ThemeService.php","line":116}
+[2026-01-16 20:26:12] [ERROR] API Error {"message":"App\\Services\\ThemeService::getChangesSince(): Argument #1 ($since) must be of type string, null given, called in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/ThemeController.php on line 150","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Services/ThemeService.php","line":116}
+[2026-01-16 20:26:34] [ERROR] API Error {"message":"App\\Services\\ThemeService::getChangesSince(): Argument #1 ($since) must be of type string, null given, called in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/ThemeController.php on line 150","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Services/ThemeService.php","line":116}
+[2026-01-16 20:26:35] [ERROR] API Error {"message":"App\\Services\\ThemeService::getChangesSince(): Argument #1 ($since) must be of type string, null given, called in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/ThemeController.php on line 150","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Services/ThemeService.php","line":116}
+[2026-01-16 20:26:57] [ERROR] API Error {"message":"App\\Services\\ThemeService::getChangesSince(): Argument #1 ($since) must be of type string, null given, called in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/ThemeController.php on line 150","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Services/ThemeService.php","line":116}
+[2026-01-16 20:26:57] [ERROR] API Error {"message":"App\\Services\\ThemeService::getChangesSince(): Argument #1 ($since) must be of type string, null given, called in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/ThemeController.php on line 150","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Services/ThemeService.php","line":116}
+[2026-01-16 20:28:03] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 20:28:04] [ERROR] API Error {"message":"Call to undefined method App\\Services\\ThemeService::getLatestChangeId()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/ThemeController.php","line":188}
+[2026-01-16 20:28:05] [ERROR] API Error {"message":"Call to undefined method App\\Services\\ThemeService::getLatestChangeId()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/ThemeController.php","line":188}
+[2026-01-16 20:28:06] [ERROR] API Error {"message":"call_user_func_array(): Argument #1 ($callback) must be a valid callback, class App\\Api\\Controllers\\ThemeController does not have a method \"poll\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Router.php","line":170}
+[2026-01-16 20:28:07] [ERROR] API Error {"message":"call_user_func_array(): Argument #1 ($callback) must be a valid callback, class App\\Api\\Controllers\\ThemeController does not have a method \"poll\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Router.php","line":170}
+[2026-01-16 20:28:08] [ERROR] API Error {"message":"call_user_func_array(): Argument #1 ($callback) must be a valid callback, class App\\Api\\Controllers\\ThemeController does not have a method \"poll\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Router.php","line":170}
+[2026-01-16 20:28:09] [ERROR] API Error {"message":"call_user_func_array(): Argument #1 ($callback) must be a valid callback, class App\\Api\\Controllers\\ThemeController does not have a method \"poll\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Router.php","line":170}
+[2026-01-16 20:28:10] [ERROR] API Error {"message":"call_user_func_array(): Argument #1 ($callback) must be a valid callback, class App\\Api\\Controllers\\ThemeController does not have a method \"poll\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Router.php","line":170}
+[2026-01-16 20:28:11] [ERROR] API Error {"message":"call_user_func_array(): Argument #1 ($callback) must be a valid callback, class App\\Api\\Controllers\\ThemeController does not have a method \"poll\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Router.php","line":170}
+[2026-01-16 20:28:12] [ERROR] API Error {"message":"call_user_func_array(): Argument #1 ($callback) must be a valid callback, class App\\Api\\Controllers\\ThemeController does not have a method \"poll\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Router.php","line":170}
+[2026-01-16 20:28:13] [ERROR] API Error {"message":"call_user_func_array(): Argument #1 ($callback) must be a valid callback, class App\\Api\\Controllers\\ThemeController does not have a method \"poll\"","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Router.php","line":170}
+[2026-01-16 20:28:17] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 20:28:36] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 20:29:52] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 20:30:47] [ERROR] API Error {"message":"Call to undefined method System\\Database::execute()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Services/ThemeService.php","line":81}
+[2026-01-16 20:30:49] [ERROR] API Error {"message":"Call to undefined method System\\Database::execute()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Services/ThemeService.php","line":81}
+[2026-01-16 20:31:36] [ERROR] API Error {"message":"Call to undefined method System\\Database::execute()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Services/ThemeService.php","line":81}
+[2026-01-16 20:31:37] [ERROR] API Error {"message":"Call to undefined method System\\Database::execute()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Services/ThemeService.php","line":81}
+[2026-01-16 20:32:27] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 20:33:25] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 20:33:47] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 20:34:03] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 20:51:09] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 20:51:27] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 20:51:33] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 20:52:23] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 20:52:29] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 20:53:26] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 20:56:11] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 21:00:51] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 21:01:16] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 21:03:06] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 21:17:52] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:17:53] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:17:54] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:17:54] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:21:28] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:21:28] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:25:33] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:25:33] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:25:41] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:25:41] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:35:45] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:35:45] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:35:50] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:35:50] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:35:53] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:35:53] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:38:53] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 21:38:56] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 21:40:09] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 21:40:37] [WARNING] Failed login attempt {"username":"admin"}
+[2026-01-16 21:40:42] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 21:41:14] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-16 21:41:23] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:41:23] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:41:25] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:41:25] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:41:33] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:41:33] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:41:36] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:41:36] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:41:41] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:41:41] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:41:46] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:41:46] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:41:52] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:41:52] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:41:53] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:41:53] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:41:59] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:41:59] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:42:04] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:42:04] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:42:07] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:42:08] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:42:10] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:42:10] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:42:12] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:42:12] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:42:14] [ERROR] Uncaught Exception {"message":"View not found: patients.show","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-16 21:42:15] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:42:15] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:42:16] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:42:16] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:42:55] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:42:55] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:42:58] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:42:58] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:43:00] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:43:00] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:43:21] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:43:21] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:43:24] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:43:24] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:43:25] [ERROR] Uncaught Exception {"message":"View not found: patients.show","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-16 21:43:26] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:43:26] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:43:28] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:43:29] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:44:49] [ERROR] Uncaught Exception {"message":"View not found: registrations.index","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-16 21:44:54] [ERROR] Uncaught Exception {"message":"View not found: registrations.index","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-16 21:44:59] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:44:59] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:45:00] [ERROR] Uncaught Exception {"message":"View not found: registrations.index","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-16 21:45:02] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:45:02] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:45:52] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:45:52] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:45:59] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:45:59] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:46:02] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:46:02] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:46:22] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:46:22] [ERROR] API Error {"message":"Call to undefined method System\\JWT::getUser()","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":27}
+[2026-01-16 21:47:59] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.visit_date' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":65}
+[2026-01-16 21:48:08] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.visit_date' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":65}
+[2026-01-16 21:48:18] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.visit_date' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":65}
+[2026-01-16 21:48:25] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.visit_date' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":65}
+[2026-01-16 21:48:26] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'v.visit_date' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":65}
+[2026-01-16 21:59:42] [INFO] Patient created {"patient_id":"1","mrn":"MRN26000001","user_id":1}
+[2026-01-16 22:04:35] [INFO] Patient created {"patient_id":"2","mrn":"MRN26000002","user_id":1}
+[2026-01-16 22:23:21] [ERROR] Uncaught Exception {"message":"View not found: patients.show","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-16 22:23:46] [ERROR] Uncaught Exception {"message":"View not found: patients.show","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-16 22:24:16] [ERROR] Uncaught Exception {"message":"View not found: patients.show","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-16 22:25:29] [INFO] Patient created {"patient_id":"3","mrn":"MRN26000003","user_id":1}
+[2026-01-16 22:25:40] [ERROR] Uncaught Exception {"message":"View not found: patients.show","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-16 22:26:28] [ERROR] Uncaught Exception {"message":"View not found: patients.show","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-16 22:27:36] [ERROR] Uncaught Exception {"message":"View not found: patients.show","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-16 22:37:19] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":574}
+[2026-01-16 22:37:19] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":574}
+[2026-01-16 22:37:19] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":574}
+[2026-01-16 22:37:58] [INFO] Patient created {"patient_id":"4","mrn":"MRN26000004","user_id":1}
+[2026-01-16 22:42:18] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":574}
+[2026-01-16 22:42:18] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":574}
+[2026-01-16 22:42:18] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":574}
+[2026-01-16 22:42:18] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":574}
+[2026-01-16 22:42:18] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":574}
+[2026-01-16 22:42:18] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":574}
+[2026-01-16 22:48:53] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:48:53] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:48:53] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:48:53] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:48:53] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:48:53] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:49:02] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:49:02] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:49:02] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:49:02] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:49:02] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:49:02] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:49:31] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:49:31] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:49:31] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:49:31] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:49:31] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:49:31] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:49:56] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:49:56] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:49:56] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:49:56] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:49:56] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:49:56] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:50:29] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:50:29] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:50:29] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:50:29] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:50:29] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:50:29] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:51:43] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:51:43] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:51:43] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:51:43] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:51:43] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:51:43] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:55:06] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:55:06] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:55:06] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:55:06] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:55:06] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:55:06] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:55:12] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:55:12] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:55:12] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:55:12] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:55:12] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:55:12] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:57:00] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:57:00] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:57:00] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:57:00] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:57:00] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:57:00] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:57:23] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:57:23] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:57:23] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:57:23] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:57:23] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:57:23] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:58:13] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:58:13] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:58:13] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:58:13] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:58:13] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:58:13] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:58:29] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:58:29] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:58:29] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:58:29] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:58:29] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:58:29] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:59:26] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:59:26] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:59:26] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:59:26] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:59:26] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 22:59:26] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 23:02:58] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 23:02:58] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 23:02:58] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 23:02:58] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 23:02:58] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 23:02:58] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 23:07:38] [ERROR] PHP Error {"message":"Undefined variable $patients","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 23:07:38] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 23:07:38] [ERROR] PHP Error {"message":"Trying to access array offset on value of type null","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php","line":575}
+[2026-01-16 23:09:14] [ERROR] Failed to create patient {"error":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'relation' in 'field list'"}
+[2026-01-16 23:09:26] [ERROR] Failed to create patient {"error":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'relation' in 'field list'"}
+[2026-01-16 23:09:36] [ERROR] Failed to create patient {"error":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'relation' in 'field list'"}
+[2026-01-16 23:09:42] [ERROR] Failed to create patient {"error":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'relation' in 'field list'"}
+[2026-01-16 23:10:32] [ERROR] Failed to create patient {"error":"SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `melina_hms`.`patients`.`related_to_patient_id` at row 1"}
+[2026-01-16 23:10:37] [ERROR] Failed to create patient {"error":"SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `melina_hms`.`patients`.`related_to_patient_id` at row 1"}
+[2026-01-16 23:11:18] [ERROR] Failed to create patient {"error":"SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `melina_hms`.`patients`.`related_to_patient_id` at row 1"}
+[2026-01-16 23:11:34] [ERROR] Failed to create patient {"error":"SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `melina_hms`.`patients`.`related_to_patient_id` at row 1"}
+[2026-01-16 23:13:56] [ERROR] Failed to create patient {"error":"SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `melina_hms`.`patients`.`related_to_patient_id` at row 1"}
+[2026-01-16 23:15:08] [ERROR] Failed to create patient {"error":"SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `melina_hms`.`patients`.`related_to_patient_id` at row 1"}
+[2026-01-16 23:15:31] [INFO] Patient created {"patient_id":"5","mrn":"MRN26000005","user_id":1}
+[2026-01-16 23:21:20] [INFO] Patient created {"patient_id":"6","mrn":"MRN26000006","user_id":1}
+[2026-01-16 23:28:59] [ERROR] Failed to create patient {"error":"SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column `melina_hms`.`patients`.`dob` at row 1"}
+[2026-01-16 23:29:03] [ERROR] Failed to create patient {"error":"SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column `melina_hms`.`patients`.`dob` at row 1"}
+[2026-01-16 23:29:03] [ERROR] Failed to create patient {"error":"SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column `melina_hms`.`patients`.`dob` at row 1"}
+[2026-01-16 23:29:54] [ERROR] Failed to create patient {"error":"SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column `melina_hms`.`patients`.`dob` at row 1"}
+[2026-01-16 23:30:15] [ERROR] Failed to create patient {"error":"SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column `melina_hms`.`patients`.`dob` at row 1"}
+[2026-01-16 23:30:40] [ERROR] Failed to create patient {"error":"SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column `melina_hms`.`patients`.`dob` at row 1"}
+[2026-01-16 23:31:04] [ERROR] Failed to create patient {"error":"SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column `melina_hms`.`patients`.`dob` at row 1"}
+[2026-01-16 23:32:48] [ERROR] Failed to create patient {"error":"SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column `melina_hms`.`patients`.`dob` at row 1","trace":"#0 /Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php(66): PDOStatement->execute(Array)\n#1 /Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php(98): System\\Database->query('INSERT INTO `pa...', Array)\n#2 /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php(287): System\\Database->insert('patients', Array)\n#3 [internal function]: App\\Api\\Controllers\\PatientController->store()\n#4 /Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Router.php(170): call_user_func_array(Array, Array)\n#5 /Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Router.php(112): System\\Router->executeHandler(Array, Array)\n#6 /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/api/index.php(47): System\\Router->dispatch()\n#7 /Applications/XAMPP/xamppfiles/htdocs/melina_hms/public/index.php(113): require_once('/Applications/X...')\n#8 /Applications/XAMPP/xamppfiles/htdocs/melina_hms/server.php(45): require('/Applications/X...')\n#9 {main}"}
+[2026-01-16 23:33:20] [ERROR] Failed to create patient {"error":"SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect date value: '' for column `melina_hms`.`patients`.`dob` at row 1","trace":"#0 /Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php(66): PDOStatement->execute(Array)\n#1 /Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php(98): System\\Database->query('INSERT INTO `pa...', Array)\n#2 /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/PatientController.php(287): System\\Database->insert('patients', Array)\n#3 [internal function]: App\\Api\\Controllers\\PatientController->store()\n#4 /Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Router.php(170): call_user_func_array(Array, Array)\n#5 /Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Router.php(112): System\\Router->executeHandler(Array, Array)\n#6 /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/api/index.php(47): System\\Router->dispatch()\n#7 /Applications/XAMPP/xamppfiles/htdocs/melina_hms/public/index.php(113): require_once('/Applications/X...')\n#8 /Applications/XAMPP/xamppfiles/htdocs/melina_hms/server.php(45): require('/Applications/X...')\n#9 {main}"}
+[2026-01-16 23:33:54] [INFO] Patient created {"patient_id":"7","mrn":"MRN26000007","user_id":1}
+[2026-01-16 23:37:17] [INFO] Patient created {"patient_id":"8","mrn":"MRN26000008","user_id":1}
+[2026-01-16 23:40:27] [INFO] Patient created {"patient_id":"9","mrn":"MRN26000009","user_id":1}
+[2026-01-16 23:46:32] [INFO] Patient created {"patient_id":"10","mrn":"MRN26000010","user_id":1}
+[2026-01-16 23:47:19] [INFO] Patient created {"patient_id":"11","mrn":"MRN26000011","user_id":1}

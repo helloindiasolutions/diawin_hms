@@ -1,0 +1,36 @@
+[21-Jan-2026 23:04:27 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[21-Jan-2026 23:04:29 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[22-Jan-2026 15:47:13 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[22-Jan-2026 15:47:30 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[22-Jan-2026 15:47:48 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[22-Jan-2026 15:52:16 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[22-Jan-2026 19:15:48 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[22-Jan-2026 19:35:13 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[22-Jan-2026 19:46:14 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[22-Jan-2026 19:47:07 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[22-Jan-2026 19:47:14 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[22-Jan-2026 19:47:42 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[22-Jan-2026 21:24:17 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[22-Jan-2026 21:25:59 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[22-Jan-2026 21:30:06 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[24-Jan-2026 12:47:42 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[24-Jan-2026 12:47:47 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[24-Jan-2026 12:48:16 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[24-Jan-2026 12:48:41 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[24-Jan-2026 12:49:41 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[24-Jan-2026 12:49:44 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[24-Jan-2026 12:50:03 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[24-Jan-2026 12:50:05 Asia/Kolkata] PHP Fatal error:  Cannot use try without catch or finally in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 158
+[03-Feb-2026 12:59:37 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Api\Controllers\InventoryController::getStockSummary() in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 713
+[03-Feb-2026 12:59:37 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Api\Controllers\InventoryController::getStockSummary() in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 713
+[03-Feb-2026 12:59:39 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Api\Controllers\InventoryController::getStockSummary() in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 713
+[03-Feb-2026 12:59:39 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Api\Controllers\InventoryController::getStockSummary() in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 713
+[03-Feb-2026 12:59:42 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Api\Controllers\InventoryController::getStockSummary() in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 713
+[03-Feb-2026 12:59:42 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Api\Controllers\InventoryController::getStockSummary() in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 713
+[03-Feb-2026 12:59:52 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Api\Controllers\InventoryController::getStockSummary() in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 713
+[03-Feb-2026 12:59:52 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Api\Controllers\InventoryController::getStockSummary() in /Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php on line 713
+[08-Feb-2026 16:47:30 Asia/Kolkata] WA Token Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'q.updated_at' in 'order clause'
+[08-Feb-2026 16:48:40 Asia/Kolkata] Error generating PDF content: Mpdf\QrCode package was not found. Install the package from Packagist with "composer require mpdf/qrcode"
+[08-Feb-2026 16:49:49 Asia/Kolkata] Invoice PDF Error: Mpdf\QrCode package was not found. Install the package from Packagist with "composer require mpdf/qrcode"
+[08-Feb-2026 17:43:40 Asia/Kolkata] WA Prescription Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pr.reg_no' in 'field list'
+[08-Feb-2026 18:00:52 Asia/Kolkata] WA Prescription Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pr.reg_no' in 'field list'

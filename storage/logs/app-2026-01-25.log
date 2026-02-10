@@ -1,0 +1,9 @@
+[2026-01-25 01:22:38] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-25 01:22:41] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-25 01:23:38] [INFO] Unified user created {"user_id":"5","role":"doctor"}
+[2026-01-25 01:23:50] [INFO] Expired OTPs cleaned up {"count":3}
+[2026-01-25 01:23:52] [INFO] WhatsApp OTP sent {"recipient":"9952048535"}
+[2026-01-25 01:23:52] [INFO] OTP generated {"otp_id":"6","mobile_number":"9952048535","purpose":"login","expires_at":"2026-01-25 01:28:50"}
+[2026-01-25 01:24:03] [INFO] OTP verified successfully {"otp_id":6,"mobile_number":"9952048535","purpose":"login"}
+[2026-01-25 01:24:03] [INFO] User logged in via OTP {"user_id":5}
+[2026-01-25 01:24:03] [INFO] User logged in via OTP Bridge {"user_id":5}

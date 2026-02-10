@@ -1,0 +1,239 @@
+[2026-01-24 00:02:38] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":7}
+[2026-01-24 00:02:38] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":8}
+[2026-01-24 00:02:38] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":9}
+[2026-01-24 00:02:38] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":10}
+[2026-01-24 00:02:38] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":1028}
+[2026-01-24 00:02:38] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":1034}
+[2026-01-24 00:02:38] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":1087}
+[2026-01-24 00:02:45] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":7}
+[2026-01-24 00:02:45] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":8}
+[2026-01-24 00:02:45] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":9}
+[2026-01-24 00:02:45] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":10}
+[2026-01-24 00:02:45] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":1028}
+[2026-01-24 00:02:45] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":1034}
+[2026-01-24 00:02:45] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":1087}
+[2026-01-24 00:05:02] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":7}
+[2026-01-24 00:05:02] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":8}
+[2026-01-24 00:05:02] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":9}
+[2026-01-24 00:05:02] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":10}
+[2026-01-24 00:05:02] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":1028}
+[2026-01-24 00:05:02] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":1034}
+[2026-01-24 00:05:02] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":1087}
+[2026-01-24 00:05:04] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":7}
+[2026-01-24 00:05:04] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":8}
+[2026-01-24 00:05:04] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":9}
+[2026-01-24 00:05:04] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":10}
+[2026-01-24 00:05:04] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":1028}
+[2026-01-24 00:05:04] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":1034}
+[2026-01-24 00:05:04] [ERROR] PHP Error {"message":"Undefined variable $baseUrl","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/pages/layouts/components/main-sidebar.php","line":1087}
+[2026-01-24 00:15:41] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 00:27:46] [ERROR] Database connection (remote) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'2405:201:e047:4823:b806:ad75:e21:a8d8' (using password: YES)"}
+[2026-01-24 00:27:46] [ERROR] API Error {"message":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'2405:201:e047:4823:b806:ad75:e21:a8d8' (using password: YES)","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":68}
+[2026-01-24 00:27:47] [ERROR] Database connection (remote) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'2405:201:e047:4823:b806:ad75:e21:a8d8' (using password: YES)"}
+[2026-01-24 00:27:47] [ERROR] API Error {"message":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'2405:201:e047:4823:b806:ad75:e21:a8d8' (using password: YES)","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":68}
+[2026-01-24 00:27:47] [ERROR] Database connection (remote) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'49.37.193.82' (using password: YES)"}
+[2026-01-24 00:27:47] [ERROR] API Error {"message":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'49.37.193.82' (using password: YES)","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":68}
+[2026-01-24 00:27:48] [ERROR] Database connection (remote) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'49.37.193.82' (using password: YES)"}
+[2026-01-24 00:27:48] [ERROR] API Error {"message":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'49.37.193.82' (using password: YES)","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":68}
+[2026-01-24 00:28:30] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 00:28:31] [ERROR] Uncaught Exception {"message":"View not found: inventory.product_create","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 00:34:09] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 00:36:17] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 00:37:03] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 00:38:34] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 00:38:56] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 00:41:47] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 00:44:04] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:03:18] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-24 11:03:29] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:43:31] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:43:37] [ERROR] Uncaught Exception {"message":"View not found: inventory.batches","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 11:43:41] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:43:50] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:46:31] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:48:12] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:01] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:32] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:32] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:33] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:42] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:43] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:43] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:43] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:44] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:44] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:45] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:46] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:47] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:47] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:48] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:48] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:48] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:49] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:49] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:49] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:50] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:52] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:52] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:53] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:54] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:58] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:49:58] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:50:03] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:50:23] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:50:24] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:51:30] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:51:31] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:51:31] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:51:32] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:57:48] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:57:54] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:58:05] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:58:07] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:58:12] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 11:59:23] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 12:01:56] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 12:02:01] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 12:02:03] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 12:03:29] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 12:03:32] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 12:03:37] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 12:03:41] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 12:03:46] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 12:05:23] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 12:17:29] [ERROR] Uncaught Exception {"message":"View not found: billing.packages","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 12:17:32] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 12:23:03] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 12:26:06] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 12:26:34] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 12:28:51] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 12:37:25] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 12:37:50] [ERROR] Uncaught Exception {"message":"View not found: inventory.batches","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 12:39:48] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 12:39:53] [ERROR] API Error {"message":"syntax error, unexpected token \"public\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":257}
+[2026-01-24 12:47:42] [ERROR] Fatal Error {"type":64,"message":"Cannot use try without catch or finally","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":158}
+[2026-01-24 12:47:47] [ERROR] Fatal Error {"type":64,"message":"Cannot use try without catch or finally","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":158}
+[2026-01-24 12:48:16] [ERROR] Fatal Error {"type":64,"message":"Cannot use try without catch or finally","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":158}
+[2026-01-24 12:48:41] [ERROR] Fatal Error {"type":64,"message":"Cannot use try without catch or finally","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":158}
+[2026-01-24 12:49:41] [ERROR] Fatal Error {"type":64,"message":"Cannot use try without catch or finally","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":158}
+[2026-01-24 12:49:44] [ERROR] Fatal Error {"type":64,"message":"Cannot use try without catch or finally","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":158}
+[2026-01-24 12:50:03] [ERROR] Fatal Error {"type":64,"message":"Cannot use try without catch or finally","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":158}
+[2026-01-24 12:50:05] [ERROR] Fatal Error {"type":64,"message":"Cannot use try without catch or finally","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/InventoryController.php","line":158}
+[2026-01-24 12:52:34] [ERROR] Database connection (remote) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'2405:201:e047:4823:e1b2:b642:870:2bfa' (using password: YES)"}
+[2026-01-24 12:52:34] [ERROR] API Error {"message":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'2405:201:e047:4823:e1b2:b642:870:2bfa' (using password: YES)","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":68}
+[2026-01-24 12:52:35] [ERROR] Database connection (remote) failed {"error":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'49.37.193.102' (using password: YES)"}
+[2026-01-24 12:52:35] [ERROR] API Error {"message":"SQLSTATE[HY000] [1045] Access denied for user 'u602093072_melina'@'49.37.193.102' (using password: YES)","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":68}
+[2026-01-24 14:32:05] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:32:10] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:32:15] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:32:16] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:32:16] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:32:21] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:32:26] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:32:31] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:32:36] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:32:41] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:32:46] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:32:51] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:32:56] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:33:01] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:33:06] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:33:11] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:33:16] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:33:21] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:33:26] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:33:31] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:33:36] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:33:41] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:33:46] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:33:51] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:33:56] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:34:01] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:34:06] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 14:34:11] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_active' in 'where clause'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 17:19:53] [WARNING] Failed login attempt {"username":"admin"}
+[2026-01-24 17:20:08] [WARNING] Failed login attempt {"username":"admin"}
+[2026-01-24 17:20:30] [WARNING] Failed login attempt {"username":"admin"}
+[2026-01-24 18:34:42] [WARNING] Failed login attempt {"username":"admin"}
+[2026-01-24 18:34:46] [WARNING] Failed login attempt {"username":"admin"}
+[2026-01-24 18:34:51] [WARNING] Failed login attempt {"username":"admin"}
+[2026-01-24 18:35:18] [WARNING] Failed login attempt {"username":"admin"}
+[2026-01-24 18:35:25] [WARNING] Failed login attempt {"username":"admin"}
+[2026-01-24 18:35:29] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-24 18:43:47] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-24 18:58:50] [ERROR] Uncaught Exception {"message":"syntax error, unexpected token \"endif\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/app.php","line":221}
+[2026-01-24 18:58:51] [ERROR] Uncaught Exception {"message":"syntax error, unexpected token \"endif\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/app.php","line":221}
+[2026-01-24 18:58:52] [ERROR] Uncaught Exception {"message":"syntax error, unexpected token \"endif\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/app.php","line":221}
+[2026-01-24 18:59:04] [ERROR] Uncaught Exception {"message":"syntax error, unexpected token \"endif\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/app.php","line":221}
+[2026-01-24 18:59:04] [ERROR] Uncaught Exception {"message":"syntax error, unexpected token \"endif\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/app.php","line":221}
+[2026-01-24 18:59:05] [ERROR] Uncaught Exception {"message":"syntax error, unexpected token \"endif\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/app.php","line":221}
+[2026-01-24 18:59:07] [ERROR] Uncaught Exception {"message":"syntax error, unexpected token \"endif\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/app.php","line":221}
+[2026-01-24 18:59:07] [ERROR] Uncaught Exception {"message":"syntax error, unexpected token \"endif\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/app.php","line":221}
+[2026-01-24 18:59:08] [ERROR] Uncaught Exception {"message":"syntax error, unexpected token \"endif\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/app.php","line":221}
+[2026-01-24 18:59:14] [ERROR] Uncaught Exception {"message":"syntax error, unexpected token \"endif\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/app.php","line":221}
+[2026-01-24 18:59:15] [ERROR] Uncaught Exception {"message":"syntax error, unexpected token \"endif\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/app.php","line":221}
+[2026-01-24 18:59:16] [ERROR] Uncaught Exception {"message":"syntax error, unexpected token \"endif\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/app.php","line":221}
+[2026-01-24 18:59:16] [ERROR] Uncaught Exception {"message":"syntax error, unexpected token \"endif\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/app.php","line":221}
+[2026-01-24 18:59:19] [ERROR] Uncaught Exception {"message":"syntax error, unexpected token \"endif\", expecting end of file","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/app.php","line":221}
+[2026-01-24 18:59:42] [ERROR] Uncaught Exception {"message":"View not found: registrations.create","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 18:59:42] [ERROR] Uncaught Exception {"message":"View not found: registrations.create","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 19:04:53] [ERROR] Uncaught Exception {"message":"View not found: registrations.create","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 19:04:53] [ERROR] Uncaught Exception {"message":"View not found: registrations.create","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 19:05:01] [ERROR] Uncaught Exception {"message":"View not found: registrations.create","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 19:05:01] [ERROR] Uncaught Exception {"message":"View not found: registrations.create","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 19:15:40] [ERROR] Uncaught Exception {"message":"View not found: estimation.list","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 19:15:40] [ERROR] Uncaught Exception {"message":"View not found: estimation.list","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 19:15:56] [ERROR] Uncaught Exception {"message":"View not found: estimation.list","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 19:16:08] [ERROR] Uncaught Exception {"message":"View not found: estimation.list","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 19:17:55] [ERROR] Uncaught Exception {"message":"View not found: estimation.list","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 19:17:55] [ERROR] Uncaught Exception {"message":"View not found: estimation.list","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 19:24:00] [ERROR] Uncaught Exception {"message":"View not found: estimation.convert","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 19:24:00] [ERROR] Uncaught Exception {"message":"View not found: estimation.convert","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 21:07:52] [ERROR] API Error {"message":"Class \"Api\\Services\\OTPService\" not found","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Api/Controllers/AuthController.php","line":25}
+[2026-01-24 21:08:42] [INFO] SMS OTP (MOCK) {"mobile_number":"9945600000","otp_code":"480810","message":"Your OTP is: 480810. Valid for 5 minutes."}
+[2026-01-24 21:08:42] [INFO] OTP generated {"otp_id":"1","mobile_number":"9945600000","purpose":"login","expires_at":"2026-01-24 21:13:42"}
+[2026-01-24 21:11:07] [INFO] SMS OTP (MOCK) {"mobile_number":"9952048535","otp_code":"333535","message":"Your OTP is: 333535. Valid for 5 minutes."}
+[2026-01-24 21:11:07] [INFO] OTP generated {"otp_id":"2","mobile_number":"9952048535","purpose":"login","expires_at":"2026-01-24 21:16:07"}
+[2026-01-24 21:14:40] [INFO] Expired OTPs cleaned up {"count":1}
+[2026-01-24 21:14:42] [INFO] WhatsApp OTP sent {"recipient":"9945600000"}
+[2026-01-24 21:14:42] [INFO] OTP generated {"otp_id":"3","mobile_number":"9945600000","purpose":"login","expires_at":"2026-01-24 21:19:40"}
+[2026-01-24 21:15:03] [INFO] WhatsApp OTP sent {"recipient":"9952048535"}
+[2026-01-24 21:15:03] [INFO] OTP generated {"otp_id":"4","mobile_number":"9952048535","purpose":"login","expires_at":"2026-01-24 21:20:00"}
+[2026-01-24 21:15:11] [INFO] OTP verified successfully {"otp_id":4,"mobile_number":"9952048535","purpose":"login"}
+[2026-01-24 21:15:21] [WARNING] Invalid OTP attempt {"otp_id":2,"mobile_number":"9952048535","attempts":1}
+[2026-01-24 21:15:21] [ERROR] OTP verification failed {"mobile_number":"9952048535","error":"Invalid OTP code"}
+[2026-01-24 21:15:21] [ERROR] OTP verification failed in controller {"mobile_number":"9952048535","error":"Invalid OTP code"}
+[2026-01-24 21:17:28] [DEBUG] OTP not found or expired {"mobile":"9952048535","time":"2026-01-24 21:17:28"}
+[2026-01-24 21:17:28] [ERROR] OTP verification failed {"mobile_number":"9952048535","error":"Invalid or expired OTP"}
+[2026-01-24 21:17:28] [ERROR] OTP verification failed in controller {"mobile_number":"9952048535","error":"Invalid or expired OTP"}
+[2026-01-24 21:19:03] [DEBUG] OTP not found or expired {"mobile":"9952048535","time":"2026-01-24 21:19:03"}
+[2026-01-24 21:19:03] [ERROR] OTP verification failed {"mobile_number":"9952048535","error":"Invalid or expired OTP"}
+[2026-01-24 21:19:03] [ERROR] OTP verification failed in controller {"mobile_number":"9952048535","error":"Invalid or expired OTP"}
+[2026-01-24 21:19:08] [INFO] Expired OTPs cleaned up {"count":1}
+[2026-01-24 21:19:10] [INFO] WhatsApp OTP sent {"recipient":"9952048535"}
+[2026-01-24 21:19:10] [INFO] OTP generated {"otp_id":"5","mobile_number":"9952048535","purpose":"login","expires_at":"2026-01-24 21:24:08"}
+[2026-01-24 21:19:16] [INFO] OTP verified successfully {"otp_id":5,"mobile_number":"9952048535","purpose":"login"}
+[2026-01-24 21:23:46] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-24 21:23:48] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-24 21:55:57] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-24 21:56:00] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-24 22:05:51] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-24 22:05:53] [INFO] User logged in {"user_id":1,"username":"admin"}
+[2026-01-24 22:14:42] [ERROR] Uncaught Exception {"message":"View not found: admin.users_create","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 22:24:44] [ERROR] Uncaught Exception {"message":"View not found: admin.branches_staff","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 22:24:44] [ERROR] Uncaught Exception {"message":"View not found: admin.branches_staff","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/helpers.php","line":118}
+[2026-01-24 22:42:33] [ERROR] PHP Error {"message":"require_once(/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/header.php): Failed to open stream: No such file or directory","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/admin/users.php","line":3}
+[2026-01-24 22:42:33] [ERROR] Uncaught Exception {"message":"Failed opening required '/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/header.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php')","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/admin/users.php","line":3}
+[2026-01-24 22:42:33] [ERROR] PHP Error {"message":"require_once(/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/header.php): Failed to open stream: No such file or directory","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/admin/users.php","line":3}
+[2026-01-24 22:42:33] [ERROR] Uncaught Exception {"message":"Failed opening required '/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/layouts/header.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php')","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/views/admin/users.php","line":3}
+[2026-01-24 23:10:46] [ERROR] Uncaught Exception {"message":"Unmatched '}'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Routes/api.php","line":210}
+[2026-01-24 23:10:51] [ERROR] Uncaught Exception {"message":"Unmatched '}'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Routes/api.php","line":210}
+[2026-01-24 23:10:56] [ERROR] Uncaught Exception {"message":"Unmatched '}'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/src/Routes/api.php","line":210}
+[2026-01-24 23:11:27] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.code' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 23:11:29] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.code' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 23:11:30] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.code' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 23:12:39] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.code' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 23:12:40] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.code' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 23:12:41] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.code' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 23:21:10] [ERROR] API Error {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.code' in 'field list'","file":"/Applications/XAMPP/xamppfiles/htdocs/melina_hms/system/Database.php","line":86}
+[2026-01-24 23:54:43] [INFO] User logged in {"user_id":1,"username":"admin"}
