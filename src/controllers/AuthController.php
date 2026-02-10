@@ -14,7 +14,7 @@ use System\Logger;
 use System\Router;
 use App\Services\ThemeService;
 
-class AuthController
+class AuthController 
 {
     private Database $db;
 
@@ -22,10 +22,7 @@ class AuthController
     {
         $this->db = Database::getInstance();
     }
-
-    /**
-     * Handle login
-     */
+ 
     public function login(): void
     {
         $username = Security::sanitizeInput($_POST['username'] ?? '');
@@ -39,23 +36,19 @@ class AuthController
             Router::redirect($this->baseUrl('/login'));
             return;
         }
-
-        // Security check
+ 
         if (Security::detectSqlInjection($username) || Security::detectXss($username)) {
             Logger::security('Injection attempt in login', ['username' => $username]);
             Session::flash('error', 'Invalid credentials');
             Router::redirect($this->baseUrl('/login'));
             return;
-        }
-
-        // Find user by username or email
+        } 
         $user = $this->db->fetch(
             "SELECT user_id, branch_id, username, password_hash, full_name, email, mobile, is_active 
              FROM users WHERE username = ? OR email = ? LIMIT 1",
             [$username, $username]
         );
-
-        // Verify user exists and password matches
+ 
         if (!$user || !Security::verifyPassword($password, $user['password_hash'])) {
             Logger::warning('Failed login attempt', ['username' => $username]);
             Session::flash('error', 'Invalid username or password');
@@ -70,8 +63,7 @@ class AuthController
             Router::redirect($this->baseUrl('/login'));
             return;
         }
-
-        // Update last login
+ 
         $this->db->update('users', ['last_login' => date('Y-m-d H:i:s')], 'user_id = ?', [$user['user_id']]);
 
         // Get user roles
