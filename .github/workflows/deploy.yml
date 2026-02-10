@@ -1,0 +1,59 @@
+name: Deploy to FTP
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+
+      - name: Install Composer dependencies
+        run: composer install --no-dev --optimize-autoloader
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install NPM dependencies
+        run: npm install
+
+      - name: Build assets with Gulp
+        run: npx gulp build
+
+      - name: Prepare .env for production
+        run: |
+          if [ -f .env.prod ]; then
+            cp .env.prod .env
+          fi
+
+      - name: Sync files to FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ftp.mindmagik.in
+          username: u602093072.sakthicodedev
+          password: 'Sakthiinfin@123'
+          server-dir: /home/u602093072/domains/mindmagik.in/public_html/diawinhms/
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            **/tests/**
+            **/gulpfile.mjs
+            **/package.json
+            **/package-lock.json
+            **/composer.json
+            **/composer.lock
+            **/.env.local
+            **/.env.prod
